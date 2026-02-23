@@ -1,0 +1,14 @@
+# python
+.venv/
+__pycache__/
+*.pyc
+
+# outputs (ignore heavy files, keep logic files)
+outputs/*.png
+outputs/*.docx
+outputs/dashboard/
+outputs/*.csv
+
+# OS / editor
+.DS_Store
+.vscode/

@@ -1,0 +1,48 @@
+section_id,course_id,faculty,sessions
+DWDV_A,DWDV,Prof. Anupriya Khan,2
+BMS_A,BMS,Prof. Santosh Kumar Prusty,9
+BV_A,BV,Prof. Anand,15
+SMTI_A,SMTI,Prof. Shiwangi Singh,16
+FIS_A,FIS,Prof. Prasenjit Chakrabarti,19
+SCM_A,SCM,Prof. Pritee Ray,19
+CB_A,CB,Prof. M. Jyotsna Soni,20
+CB_B,CB,Prof. M. Jyotsna Soni,20
+CCS_A,CCS,Prof. Rohit Kumar,20
+CCS_B,CCS,Prof. Rohit Kumar,20
+CRM_A,CRM,Prof. Ankur Jha,20
+CRM_B,CRM,Prof. Ankur Jha,20
+CS_A,CS,Prof. Swarup Kumar Dutta,20
+CS_B,CS,Prof. Swarup Kumar Dutta,20
+DMPA_A,DMPA,Prof. Pradip Kumar Bala,20
+DMPA_B,DMPA,Prof. Pradip Kumar Bala,20
+DRV_A,DRV,Prof. Kamran Kuddus,20
+DRV_B,DRV,Prof. Kamran Kuddus,20
+DSMM_A,DSMM,Prof. Subhro Sarkar,20
+DSMM_B,DSMM,Prof. Subhro Sarkar,20
+DT_A,DT,Prof. Arindam Mukherjee,20
+DT_B,DT,Prof. Arindam Mukherjee,20
+DTI_A,DTI,Prof. Rohit Kumar (Premid) + Prof. Rojers Puthur Josrph (Postmid),20
+DTI_B,DTI,Prof. Rohit Kumar (Premid) + Prof. Rojers Puthur Josrph (Postmid),20
+EMPP_A,EMPP,Prof. Rajasekhar David,20
+EMPP_B,EMPP,Prof. Rajasekhar David,20
+FIS_B,FIS,Prof. Prasenjit Chakrabarti,20
+GMRM_A,GMRM,Prof. Piyali Ghosh,20
+IM_A,IM,Prof. Anand,20
+IM_B,IM,Prof. Anand,20
+IMC_A,IMC,Prof. T. Sai Vijay,20
+IMC_B,IMC,Prof. T. Sai Vijay,20
+IMKT_A,IMKT,Prof. Dipanjan Kumar Dey,20
+IMKT_B,IMKT,Prof. Dipanjan Kumar Dey,20
+NCM_A,NCM,Prof. Manish Kumar,20
+ODC_A,ODC,Prof. Viraj Varma,20
+ODC_B,ODC,Prof. Viraj Varma,20
+PBM_A,PBM,Prof. Aditya Shankar Mishra,20
+PBM_B,PBM,Prof. Aditya Shankar Mishra,20
+PM_A,PM,Prof. Vijaya Dixit,20
+PM_B,PM,Prof. Vijaya Dixit,20
+PRI_A,PRI,Prof. Shweta Jha,20
+PRI_B,PRI,Prof. Shweta Jha,20
+REE_A,REE,Prof. Rakhi Singh,20
+SCM_B,SCM,Prof. Pritee Ray,20
+SDM_A,SDM,Prof. Shibashish Chakraborty,20
+SDM_B,SDM,Prof. Shibashish Chakraborty,20

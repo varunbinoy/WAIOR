@@ -1,0 +1,439 @@
+student_id,student_name
+BA002-24,Ankit Raj
+BA003-24,Anshika Agarwal
+BA004-23,Sameer Boro
+BA004-24,Arjun Raja
+BA005-24,Arko Provo Ray
+BA006-24,Arunjyoti Sharma
+BA007-24,Aryan Dinkar
+BA008-24,Ashmesh Dawande
+BA009-24,Ayush Bansal
+BA010-24,Ayush Solanki
+BA011-24,Bhagyesh Raicha
+BA012-24,Bhavya Goyal
+BA013-24,Botsa Krishna Chaitanya
+BA014-24,Braj Kishan Singh
+BA015-24,Chandresh V
+BA017-24,Chetan Kumar
+BA018-24,Deuskar Vardhan Upendra
+BA019-24,Himnish Nirwan
+BA020-24,Hrishikesh Salpekar
+BA021-24,Indrakanti Ashritha
+BA022-24,K R Ajaykumar
+BA023-24,Kabilan M
+BA024-24,Kakileti Sri Rishitha
+BA025-24,Kushagra Porwal
+BA026-24,Lakshit Mansinghka
+BA028-24,Manav R
+BA029-24,Manu Prakash R
+BA030-24,N B Ramakrishnan
+BA031-24,Nimisha Jain
+BA032-24,Oam Sachin Jagtap
+BA033-24,Parth Pandey
+BA035-24,Pranuv R
+BA036-24,Ragul Adithya M
+BA037-24,Ragulraj R
+BA038-24,Rathi Ronak Girishbhai
+BA039-24,Saksham Thareja
+BA040-24,Sambhav Jain
+BA041-24,Sanchari Sen
+BA042-24,Sanskriti Mittal
+BA043-24,Shadman Ashiq
+BA044-24,Shreema Shruti
+BA046-24,Shubham Bikash Goswami
+BA047-24,Shubham Kumar Singh
+BA048-24,Shubham Mishra
+BA049-24,Sidhartha Banra
+BA050-24,Thamma Venkata Sai Manohar
+BA051-24,Utkarsh Lal
+BA052-24,Vaibhav Soni
+BA054-24,Yadavalli Satya Venkata Anitha
+BA055-24,Avin Abraham
+H001-24,Aakriti Agrawal
+H002-24,Aarti Toppo
+H003-24,Adithya Sujalal
+H004-23,Tanya
+H004-24,Aditya Bisht
+H005-24,Aditya Kaswan
+H006-24,Aditya U Upadhyay
+H007-24,Akashay
+H008-24,Aman Ashish Balmuchu
+H009-24,Anmol Dhanotiya
+H010-24,Aritra Das
+H011-24,Arjun Sabari Raguraman
+H012-24,Arka Ray
+H014-24,Ayush Jacob Kujur
+H015-24,Darshan Nath
+H016-24,Debadwar Rutuj Rajesh
+H017-24,Deeksha Venugopal Shetty
+H018-24,Devara Prashanth Kumar
+H019-24,Devashish Chaudhary
+H020-24,Gautam Sachdeva
+H021-24,Hare Krishna
+H022-24,Hemant Holani
+H023-24,Karan Kapoor
+H025-24,Mestry Prasad Vidyadhar
+H026-24,Mohd Fahad Khan
+H027-24,Mohit Toppo
+H028-24,Muskan Mittal
+H029-24,Nischal Topno
+H030-23,Asha Christina Hembrom
+H030-24,Pathina Rajkumar
+H031-24,Piyush Saini
+H032-24,Pradeep Boaz Penta
+H034-24,Punit Kumar Yadav
+H035-24,Rajul Singh
+H036-24,Rhitik Chauhan
+H037-24,Rishikesh Mallick
+H038-24,Ritu Tirkey
+H039-24,Robin Anthony Ekka
+H040-24,Ruchika Chamedia
+H041-24,Satyansh Srivastava
+H042-24,Saumya Wangdi Dukpa
+H043-24,Shaan Arif Khan
+H044-24,Shamil Hussain K E
+H045-24,Shivam Singh
+H046-24,Shivang Kumar
+H047-24,Shivdas Esha Ravindra
+H048-24,Shreya Suri
+H049-23,Dasari Murari Reddy
+H049-24,Sneha Ravindran
+H050-24,Sonamsi
+H051-24,Subhadip Maji
+H052-24,Suhani Sharma
+H053-24,Sukhad Shirkhedkar
+H055-24,Swapnil Jha
+H056-24,Yajas Dhoble
+H057-24,Yash Bhatnagar
+H058-24,Yuvraj Jaiswal
+H059-24,Gautam Bhatt
+H072-23,Gokul Krishna Sabu
+H077-23,Boda Bharath Chandra
+H083-23,Oliver Rasikan Surin
+H085-23,Nishi Nita MInz
+IPM002-21,Aakanksha Kirti
+IPM003-21,Abhishek Nagpal
+IPM005-21,Aditi Agrawal
+IPM006-21,Aditi Singh Thakur
+IPM008-21,Akansh Karthikeyan B
+IPM009-21,Ameyteshwar Singh
+IPM011-21,Anwesa Apoorva
+IPM013-21,Bankapalli Aishwarya
+IPM015-21,Debasish Sethi
+IPM016-21,Dharvi Gond
+IPM017-21,Gavidi Leela Pranathi
+IPM018-21,Harshit Jain
+IPM020-21,Ishika Rai
+IPM021-21,Jaivardhan Singh
+IPM022-21,Janhvi Yadav
+IPM023-21,Karthika A S
+IPM029-21,Mohammad Adil Mustafa
+IPM032-21,Nehal Pandey
+IPM033-21,Poorva Jain
+IPM034-21,Prateek Rawat
+IPM037-21,Rishika Kadam
+IPM039-21,Sahel Sajid
+IPM040-21,Sahil Solanki
+IPM041-21,Sania Jaman
+IPM043-21,Sarthak Mohari
+IPM044-21,Shreya Agrawal
+IPM045-21,Shrikant Anil Ambhore
+IPM048-21,Siddharth Tyagi
+IPM050-21,Sonmaya Suvransu Sekhar Nayak
+IPM051-21,Sujal Jaiswar
+IPM052-21,Surpreet Kaur
+IPM053-21,Swapnil Ramdas Wagh
+IPM054-21,Tusshar Raj Sinha
+IPM055-21,Vatsal Jaiswal
+IPM056-21,Vinay Datta Janga
+IPM057-21,Yaman Gupta
+IPM058-21,Yash Akshat Kumar
+IPM059-21,Yashika Yadav
+IPM060-21,Yogita Tewatiya
+IPM061-21,Aanvi Sarin
+IPM062-21,Aaryaka Mal
+IPM063-21,Aditi Kulkarni
+IPM067-21,Apurva Walase
+IPM070-21,Bhavya Singla
+IPM071-21,Bhavya Yadav
+IPM072-21,Bhumika Dwivedi
+IPM073-21,Deon Paul
+IPM076-21,Gurjot Singh
+IPM077-21,Hardik Sharma
+IPM078-21,J J Jayaesh Dharma
+IPM079-21,Jayant Kumar
+IPM080-21,Jayeeta Halder
+IPM081-21,K Rohan Raj Kumar
+IPM085-21,Kinshuhh Khari
+IPM087-21,Krithika Shunmugaraj
+IPM088-21,Nameera Ali
+IPM093-21,Prajawal Singh
+IPM094-21,Pritika Paul
+IPM097-21,Rithika O
+IPM099-21,Riya Gupta
+IPM100-21,Sabhavath Aakash
+IPM102-21,Sakshi Awasthi
+IPM105-21,Saptarshi Das
+IPM107-21,Shivaji Naik Banavathu
+IPM110-21,Snehjit Chowdhary
+IPM112-21,Sujal Patidar
+IPM114-21,Sunidhi Gurkar
+IPM115-21,Suresh Garg
+IPM116-21,Suryansh Kumar
+IPM117-21,Suyashree Baghele
+IPM118-21,Tarun Sagar
+IPM122-21,Priyanshu Sharma
+IPM123-21,Aashish Vishwaa Vel
+IPM128-21,Ayush Singh
+M001-24,Aakriti Priya
+M002-24,Aditya Kumar
+M003-24,Akshay Vaishnav
+M004-24,Alok Pandey
+M005-24,Alwyn Tej Kumar Toppo
+M006-24,Ananya Chhabra
+M007-24,Anish Kumar
+M010-23,Riya Kaushal
+M010-24,Athulya Lal
+M011-24,Charushi Darro
+M012-24,Chaudhari Mithilesh Ramdas
+M013-24,Chetna
+M014-24,Devangi Mohan Bhamare
+M015-24,Dheeraj Kashyap
+M016-24,Divyanshu Shekhar
+M017-24,Isha Jaiswal
+M018-24,Ishan
+M019-24,Jaivardhan S Chouhan
+M020-24,Jaskeerat Singh Khalsa
+M022-24,Kartik Kumar Jain
+M023-24,Keya Sundeep Patel
+M024-24,Khushi Munka
+M025-24,Maanik Goyal
+M026-24,Madem Guru Praveen Reddy
+M027-24,Mainak Bin
+M029-24,Minakshi Mawari
+M030-24,Mohit P R
+M031-24,Morajker Manthaj Ramdas
+M032-24,Nalin Suriya S
+M033-24,Naman Khokhar
+M034-23,Sourav Kerketta
+M034-24,Namit Kaur
+M035-24,Pallavi Kumari
+M036-24,Pavuluri Bala Bharath Kumar
+M037-24,Piyush Agarwal
+M038-24,Pragati Shreya Keshri
+M039-24,Pratyush Kumar
+M040-23,Dipankar Das
+M040-24,Prerna Sundrani
+M041-24,Raghavi Sharma
+M042-24,Raghul G
+M043-24,Rashim Verma
+M044-24,Ritika Chandel
+M045-24,Rohit Kori
+M046-24,Rumani
+M047-24,Sachin Kumar
+M048-24,Sanath Yesurke
+M049-23,Nikhil Kumar
+M049-24,Sanjana Sarraf
+M051-24,Shipra Yadav
+M052-24,Vaibhav Chauhan
+M053-24,Vijay Singh Bhadauria
+M055-24,Yash Kumar
+M056-24,Aashay Jain
+M057-24,Abhinav Samavedam
+M058-24,Abhinav Yadav
+M060-24,Anandita
+M063-24,Aparna Premanand
+M064-24,Athish C K
+M065-24,Bavisi Joy Gaurang
+M066-24,Bhosale Aditya Ashok
+M067-24,Bhumi Kalpesh Shah
+M068-24,Chandrabhanu
+M069-24,Daware Suyash Satish
+M070-24,Dev Dharaiya
+M071-24,Gaurisha Divyanshi
+M072-24,Hemang Dhamija
+M073-24,Isaac Chunglianthawnga
+M074-24,Ishika Parasrampuria
+M075-24,Jaspreet Kaur Bhatia
+M076-24,Jyoti Kumari
+M077-24,Kanakdyuti Roy
+M079-24,Keshav Jawa
+M082-24,Meena Choudhary
+M083-24,Nevin Joseph
+M084-24,P Shreya Sarbani
+M085-24,Piyush Yadav
+M089-24,Raksha Rajesh Prabhu
+M090-24,Ritika Adhikary
+M091-24,Rohan Kumar
+M093-24,Rushiraj Nawale
+M095-24,Sandeep Kumar
+M096-24,Sanyukta Paul
+M097-24,Shravani Ashish Maiskar
+M098-24,Shrehal Singh
+M099-23,Amos Ruangmel
+M099-24,Shreya Sinha
+M101-24,Smith Raj
+M102-24,Sonawane Sagar Nitin
+M103-24,Sreyoshi Gope
+M104-24,Subhadip Das
+M105-23,Suchismita Saha
+M105-24,Tanisha Kumari
+M106-24,Tanmay Agarwal
+M107-24,Tanya Sai
+M108-24,Varun Mittal
+M110-24,Aditya Ashok Vaishnav
+M111-24,Afaqu Hyder
+M112-24,Agrim Khurana
+M113-24,Aman
+M114-24,Amrit Tripathy
+M115-24,Ananya Singh
+M116-24,Ankita Shaw
+M118-24,Ashish Yadav
+M120-24,Digvijay Choudhary
+M121-24,Gajakosh Yash Deepak
+M122-24,Ghowshic Raghul A A
+M123-24,Himanshi Agarwal
+M124-24,Ingale Sudhir Subhash
+M125-23,Dharavath Priyanka
+M125-24,Jai Parkash
+M126-24,Kaustub Ratna Sinha
+M127-24,Kethavath Sai Abhilash Naik
+M128-24,Lakshita Singh
+M129-24,Lakshita Singh
+M130-24,Mohammed Sajid C G
+M131-24,Mr. Harsh Ravindra Pataskar
+M132-24,Mrinal Kanti Saha
+M133-24,Nikhil Gupta
+M134-24,P K Ananya
+M135-24,Pandey Anubha Vipdanand
+M136-24,Priteedevi Yadav
+M137-24,Priyal Jain
+M138-24,Priyasha Gupta
+M139-24,Puneeth Raj Kr
+M140-24,Rahul Shekhawat
+M141-24,Rashmi Raj
+M142-24,Raut Gaurav Babulal
+M143-24,Rishabh Singh
+M144-24,Ruchi Mittal
+M145-24,Runu Rani Gayary
+M146-24,Rupal Massey
+M147-24,Sahil Gupta
+M149-23,Vinay Shalma Jangam
+M149-24,Samridhi Sinha
+M150-24,Sanyam Jaiswal
+M151-24,Saumya Darshan
+M152-24,Sejal Taori
+M153-24,Shalini Singh
+M154-24,Shambhavi Upadhyay
+M155-24,Shaurya Singhal
+M157-24,Siddharth Fernandes
+M159-24,Sonam Yangdup Bhutia
+M161-24,Tavisha Tyagi
+M162-24,Tejswi Raj
+M163-24,Vandit Mehta
+M164-24,A Chandini
+M165-24,Aditi Wavare
+M166-24,Aishwarya Jeggan
+M168-24,Akhil Kumar Goyal
+M169-24,Alyn Biju Sahariya S
+M170-24,Amisha Ekka
+M171-23,Abhinav Seth
+M171-24,Amit Kumar Pushkar
+M172-24,Ankita Sharma
+M173-24,Anurag Raj
+M174-24,Anvesha Jain
+M175-24,Archita Jain
+M176-24,Arijit Barua
+M177-24,Arunjyoti Kalita
+M178-24,Ashish Kumar
+M180-24,Bhavyaa Aggarwal
+M182-24,Debolina Mitra
+M184-24,Gurjit Sagar V
+M185-24,Hansraj Ojha
+M186-23,Nisha Vishwakarma
+M186-24,Harsh Chourasia
+M188-24,Ishita
+M189-24,Jatin Jain S
+M190-24,K Z Khadeeja Zuhaira
+M191-24,Kunal Sejkar
+M192-24,Lakshya Joshi
+M193-24,Manas Singh
+M194-24,Mehul Talreja
+M195-24,Nabil Nazaru
+M196-24,Nidhi Singh
+M197-24,Nidhish V P
+M198-24,Penmetsa Venkata Jayawanth Raju
+M199-24,Pramath Tewari
+M200-23,Malatesh Valmiki
+M200-24,Priyannka T S
+M201-24,Rishav Singh
+M202-24,Ruchi Didwania
+M203-24,Sahil Khanna
+M204-24,Saina Sabharwal
+M205-24,Samriddhi Jain
+M206-24,Shambhavi Atul Gawande
+M208-23,Prajwal Tirkey
+M208-24,Simran
+M209-24,Singh Toran
+M210-24,Soumili Debnath
+M211-24,Sujay C
+M213-24,Tank Chhavi Vinod
+M214-24,Vadoliya Vandan Vasantbhai
+M215-24,Vanshika Koul
+M216-24,Yash Parmar
+M217-24,A Sonali Buvanesh
+M218-24,Abiel Immanuel Papang
+M219-24,Aditi Saurav
+M220-24,Aditya Deshmukh
+M221-24,Aditya Padhi
+M222-24,Akhil Maddela
+M223-24,Akshat Agarwal
+M224-24,Amit Kumar
+M225-24,Anamika Jana
+M226-24,Ananya Aggarwal
+M227-24,Anjali Gupta
+M228-24,Anupriya Pradeep Bummerkar
+M229-24,Anushka Gayen
+M230-24,Aparna Kumari Samanta
+M231-24,Ashim Francis Tirkey
+M232-24,Chirag
+M234-24,Debojyoti Sarkar
+M235-24,Deepanshu Anand
+M236-24,Devyukta Karwa
+M237-24,Dhruv Agarwal
+M238-24,Dhruv Mistry
+M239-24,Gandhi Shreya Kalpesh
+M240-24,Harshit Toppo
+M241-24,Harshita Arora
+M242-24,Harshita Rathi
+M243-24,Jetturi Keerthana Mudhiraj
+M244-23,Aditya Rai
+M244-24,K Rajit
+M245-24,Kajal Dhamija
+M246-24,Kaushal Kishor
+M247-24,Komal Karan
+M248-24,Mansi Kumari
+M249-23,Supriya Sunil Bhimte
+M249-24,Medak Vishwa Raj
+M250-24,Mehul
+M251-23,Taku Taker Oka
+M251-24,Mohammed Farhan. M.K
+M253-24,Pranay Vikas Movva
+M254-24,Priyanshi Chimnani
+M255-24,Rashi Srivastava
+M256-24,Ritika
+M257-24,Ruchir Damani
+M258-24,Saatvik Agarwal
+M259-24,Sameer Bhasin
+M260-24,Sankalp Sinha
+M261-24,Sarthak Wadhwa
+M262-24,Saurav B
+M263-24,Shashank Rai
+M264-24,Shri Balajee S M
+M265-24,Shruti Sejal Kujur
+M266-24,Shubham Nahata
+M267-24,Vaishnawi Ajit
+M268-24,Yashasvi Rana
+M269-24,Yashwant Singh
+M270-24,Krishna Kumar Ganjhu
+M271-24,Harshit Kumar

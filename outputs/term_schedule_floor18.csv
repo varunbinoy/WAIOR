@@ -1,0 +1,887 @@
+slot_id,week,section_id,course_id,faculty,day,start,end,room_number
+W1_Fri_S1,1,DSMM_B,DSMM,Prof. Subhro Sarkar,Fri,09:00,10:30,Room_1
+W1_Fri_S1,1,IMC_A,IMC,Prof. T. Sai Vijay,Fri,09:00,10:30,Room_2
+W1_Fri_S2,1,NCM_A,NCM,Prof. Manish Kumar,Fri,10:45,12:15,Room_1
+W1_Fri_S2,1,PBM_B,PBM,Prof. Aditya Shankar Mishra,Fri,10:45,12:15,Room_2
+W1_Fri_S2,1,SCM_A,SCM,Prof. Pritee Ray,Fri,10:45,12:15,Room_3
+W1_Fri_S3,1,CS_A,CS,Prof. Swarup Kumar Dutta,Fri,12:30,14:00,Room_1
+W1_Fri_S3,1,EMPP_B,EMPP,Prof. Rajasekhar David,Fri,12:30,14:00,Room_2
+W1_Fri_S3,1,IM_B,IM,Prof. Anand,Fri,12:30,14:00,Room_3
+W1_Fri_S4,1,IMC_A,IMC,Prof. T. Sai Vijay,Fri,14:45,16:15,Room_1
+W1_Fri_S4,1,SDM_B,SDM,Prof. Shibashish Chakraborty,Fri,14:45,16:15,Room_2
+W1_Fri_S5,1,DT_A,DT,Prof. Arindam Mukherjee,Fri,16:30,18:00,Room_1
+W1_Fri_S5,1,PRI_B,PRI,Prof. Shweta Jha,Fri,16:30,18:00,Room_2
+W1_Fri_S6,1,IMKT_B,IMKT,Prof. Dipanjan Kumar Dey,Fri,18:15,19:45,Room_1
+W1_Fri_S6,1,PM_A,PM,Prof. Vijaya Dixit,Fri,18:15,19:45,Room_2
+W1_Mon_S1,1,CRM_A,CRM,Prof. Ankur Jha,Mon,09:00,10:30,Room_1
+W1_Mon_S1,1,DSMM_B,DSMM,Prof. Subhro Sarkar,Mon,09:00,10:30,Room_2
+W1_Mon_S2,1,DSMM_B,DSMM,Prof. Subhro Sarkar,Mon,10:45,12:15,Room_1
+W1_Mon_S2,1,DT_A,DT,Prof. Arindam Mukherjee,Mon,10:45,12:15,Room_2
+W1_Mon_S3,1,CB_A,CB,Prof. M. Jyotsna Soni,Mon,12:30,14:00,Room_1
+W1_Mon_S3,1,EMPP_B,EMPP,Prof. Rajasekhar David,Mon,12:30,14:00,Room_2
+W1_Mon_S3,1,IM_B,IM,Prof. Anand,Mon,12:30,14:00,Room_3
+W1_Mon_S4,1,CB_A,CB,Prof. M. Jyotsna Soni,Mon,14:45,16:15,Room_1
+W1_Mon_S4,1,PRI_B,PRI,Prof. Shweta Jha,Mon,14:45,16:15,Room_2
+W1_Mon_S5,1,BV_A,BV,Prof. Anand,Mon,16:30,18:00,Room_1
+W1_Mon_S5,1,IMC_B,IMC,Prof. T. Sai Vijay,Mon,16:30,18:00,Room_2
+W1_Mon_S6,1,DMPA_B,DMPA,Prof. Pradip Kumar Bala,Mon,18:15,19:45,Room_1
+W1_Mon_S6,1,PM_A,PM,Prof. Vijaya Dixit,Mon,18:15,19:45,Room_2
+W1_Sat_S1,1,DTI_B,DTI,Prof. Rohit Kumar,Sat,09:00,10:30,Room_1
+W1_Sat_S1,1,PRI_A,PRI,Prof. Shweta Jha,Sat,09:00,10:30,Room_2
+W1_Sat_S1,1,REE_A,REE,Prof. Rakhi Singh,Sat,09:00,10:30,Room_3
+W1_Sat_S2,1,DMPA_B,DMPA,Prof. Pradip Kumar Bala,Sat,10:45,12:15,Room_1
+W1_Sat_S2,1,DRV_A,DRV,Prof. Kamran Kuddus,Sat,10:45,12:15,Room_2
+W1_Sat_S3,1,BV_A,BV,Prof. Anand,Sat,12:30,14:00,Room_1
+W1_Sat_S3,1,IMC_B,IMC,Prof. T. Sai Vijay,Sat,12:30,14:00,Room_2
+W1_Sat_S4,1,IM_A,IM,Prof. Anand,Sat,14:45,16:15,Room_1
+W1_Sat_S4,1,SCM_B,SCM,Prof. Pritee Ray,Sat,14:45,16:15,Room_2
+W1_Sat_S5,1,CCS_A,CCS,Prof. Rohit Kumar,Sat,16:30,18:00,Room_1
+W1_Sat_S5,1,CRM_B,CRM,Prof. Ankur Jha,Sat,16:30,18:00,Room_2
+W1_Sat_S6,1,IMKT_A,IMKT,Prof. Dipanjan Kumar Dey,Sat,18:15,19:45,Room_1
+W1_Sat_S6,1,NCM_A,NCM,Prof. Manish Kumar,Sat,18:15,19:45,Room_2
+W1_Sat_S6,1,PBM_B,PBM,Prof. Aditya Shankar Mishra,Sat,18:15,19:45,Room_3
+W1_Sun_S1,1,SMTI_A,SMTI,Prof. Shiwangi Singh,Sun,09:00,10:30,Room_1
+W1_Sun_S2,1,DRV_B,DRV,Prof. Kamran Kuddus,Sun,10:45,12:15,Room_1
+W1_Sun_S2,1,SDM_A,SDM,Prof. Shibashish Chakraborty,Sun,10:45,12:15,Room_2
+W1_Sun_S3,1,IM_A,IM,Prof. Anand,Sun,12:30,14:00,Room_1
+W1_Sun_S3,1,PM_B,PM,Prof. Vijaya Dixit,Sun,12:30,14:00,Room_2
+W1_Sun_S4,1,IMC_A,IMC,Prof. T. Sai Vijay,Sun,15:30,17:00,Room_1
+W1_Sun_S4,1,SCM_B,SCM,Prof. Pritee Ray,Sun,15:30,17:00,Room_2
+W1_Thu_S1,1,CB_B,CB,Prof. M. Jyotsna Soni,Thu,09:00,10:30,Room_1
+W1_Thu_S1,1,ODC_A,ODC,Prof. Viraj Varma,Thu,09:00,10:30,Room_2
+W1_Thu_S1,1,PBM_A,PBM,Prof. Aditya Shankar Mishra,Thu,09:00,10:30,Room_3
+W1_Thu_S2,1,SCM_B,SCM,Prof. Pritee Ray,Thu,10:45,12:15,Room_1
+W1_Thu_S2,1,SDM_A,SDM,Prof. Shibashish Chakraborty,Thu,10:45,12:15,Room_2
+W1_Thu_S3,1,PM_A,PM,Prof. Vijaya Dixit,Thu,12:30,14:00,Room_1
+W1_Thu_S3,1,PRI_B,PRI,Prof. Shweta Jha,Thu,12:30,14:00,Room_2
+W1_Thu_S4,1,DTI_B,DTI,Prof. Rohit Kumar,Thu,14:45,16:15,Room_1
+W1_Thu_S4,1,NCM_A,NCM,Prof. Manish Kumar,Thu,14:45,16:15,Room_2
+W1_Thu_S4,1,SCM_A,SCM,Prof. Pritee Ray,Thu,14:45,16:15,Room_3
+W1_Thu_S5,1,DT_B,DT,Prof. Arindam Mukherjee,Thu,16:30,18:00,Room_1
+W1_Thu_S5,1,FIS_A,FIS,Prof. Prasenjit Chakrabarti,Thu,16:30,18:00,Room_2
+W1_Thu_S5,1,GMRM_A,GMRM,Prof. Piyali Ghosh,Thu,16:30,18:00,Room_3
+W1_Thu_S6,1,DTI_B,DTI,Prof. Rohit Kumar,Thu,18:15,19:45,Room_1
+W1_Thu_S6,1,IMKT_A,IMKT,Prof. Dipanjan Kumar Dey,Thu,18:15,19:45,Room_2
+W1_Thu_S6,1,NCM_A,NCM,Prof. Manish Kumar,Thu,18:15,19:45,Room_3
+W1_Tue_S1,1,DSMM_B,DSMM,Prof. Subhro Sarkar,Tue,09:00,10:30,Room_1
+W1_Tue_S1,1,IM_A,IM,Prof. Anand,Tue,09:00,10:30,Room_2
+W1_Tue_S2,1,CS_A,CS,Prof. Swarup Kumar Dutta,Tue,10:45,12:15,Room_1
+W1_Tue_S2,1,EMPP_B,EMPP,Prof. Rajasekhar David,Tue,10:45,12:15,Room_2
+W1_Tue_S2,1,IM_B,IM,Prof. Anand,Tue,10:45,12:15,Room_3
+W1_Tue_S3,1,CB_A,CB,Prof. M. Jyotsna Soni,Tue,12:30,14:00,Room_1
+W1_Tue_S3,1,DTI_B,DTI,Prof. Rohit Kumar,Tue,12:30,14:00,Room_2
+W1_Tue_S4,1,CB_B,CB,Prof. M. Jyotsna Soni,Tue,14:45,16:15,Room_1
+W1_Tue_S4,1,CS_A,CS,Prof. Swarup Kumar Dutta,Tue,14:45,16:15,Room_2
+W1_Tue_S5,1,DWDV_A,DWDV,Prof. Anupriya Khan,Tue,16:30,18:00,Room_1
+W1_Tue_S5,1,REE_A,REE,Prof. Rakhi Singh,Tue,16:30,18:00,Room_2
+W1_Tue_S6,1,BV_A,BV,Prof. Anand,Tue,18:15,19:45,Room_1
+W1_Tue_S6,1,IMC_B,IMC,Prof. T. Sai Vijay,Tue,18:15,19:45,Room_2
+W1_Wed_S1,1,DSMM_B,DSMM,Prof. Subhro Sarkar,Wed,09:00,10:30,Room_1
+W1_Wed_S1,1,PM_A,PM,Prof. Vijaya Dixit,Wed,09:00,10:30,Room_2
+W1_Wed_S2,1,DTI_B,DTI,Prof. Rohit Kumar,Wed,10:45,12:15,Room_1
+W1_Wed_S2,1,IMKT_A,IMKT,Prof. Dipanjan Kumar Dey,Wed,10:45,12:15,Room_2
+W1_Wed_S2,1,NCM_A,NCM,Prof. Manish Kumar,Wed,10:45,12:15,Room_3
+W1_Wed_S3,1,PM_B,PM,Prof. Vijaya Dixit,Wed,12:30,14:00,Room_1
+W1_Wed_S3,1,PRI_A,PRI,Prof. Shweta Jha,Wed,12:30,14:00,Room_2
+W1_Wed_S4,1,DT_B,DT,Prof. Arindam Mukherjee,Wed,14:45,16:15,Room_1
+W1_Wed_S4,1,IMKT_A,IMKT,Prof. Dipanjan Kumar Dey,Wed,14:45,16:15,Room_2
+W1_Wed_S5,1,DT_B,DT,Prof. Arindam Mukherjee,Wed,16:30,18:00,Room_1
+W1_Wed_S5,1,PRI_A,PRI,Prof. Shweta Jha,Wed,16:30,18:00,Room_2
+W1_Wed_S5,1,REE_A,REE,Prof. Rakhi Singh,Wed,16:30,18:00,Room_3
+W1_Wed_S6,1,DSMM_A,DSMM,Prof. Subhro Sarkar,Wed,18:15,19:45,Room_1
+W1_Wed_S6,1,PRI_B,PRI,Prof. Shweta Jha,Wed,18:15,19:45,Room_2
+W2_Fri_S1,2,DRV_A,DRV,Prof. Kamran Kuddus,Fri,09:00,10:30,Room_1
+W2_Fri_S1,2,PRI_B,PRI,Prof. Shweta Jha,Fri,09:00,10:30,Room_2
+W2_Fri_S2,2,BV_A,BV,Prof. Anand,Fri,10:45,12:15,Room_1
+W2_Fri_S2,2,IMC_B,IMC,Prof. T. Sai Vijay,Fri,10:45,12:15,Room_2
+W2_Fri_S3,2,DRV_B,DRV,Prof. Kamran Kuddus,Fri,12:30,14:00,Room_1
+W2_Fri_S3,2,IMKT_A,IMKT,Prof. Dipanjan Kumar Dey,Fri,12:30,14:00,Room_2
+W2_Fri_S3,2,NCM_A,NCM,Prof. Manish Kumar,Fri,12:30,14:00,Room_3
+W2_Fri_S4,2,CS_A,CS,Prof. Swarup Kumar Dutta,Fri,14:45,16:15,Room_1
+W2_Fri_S4,2,SDM_B,SDM,Prof. Shibashish Chakraborty,Fri,14:45,16:15,Room_2
+W2_Fri_S5,2,CB_A,CB,Prof. M. Jyotsna Soni,Fri,16:30,18:00,Room_1
+W2_Fri_S5,2,DMPA_B,DMPA,Prof. Pradip Kumar Bala,Fri,16:30,18:00,Room_2
+W2_Fri_S5,2,ODC_B,ODC,Prof. Viraj Varma,Fri,16:30,18:00,Room_3
+W2_Fri_S6,2,DWDV_A,DWDV,Prof. Anupriya Khan,Fri,18:15,19:45,Room_1
+W2_Fri_S6,2,ODC_A,ODC,Prof. Viraj Varma,Fri,18:15,19:45,Room_2
+W2_Mon_S1,2,DMPA_A,DMPA,Prof. Pradip Kumar Bala,Mon,09:00,10:30,Room_1
+W2_Mon_S1,2,FIS_B,FIS,Prof. Prasenjit Chakrabarti,Mon,09:00,10:30,Room_2
+W2_Mon_S1,2,GMRM_A,GMRM,Prof. Piyali Ghosh,Mon,09:00,10:30,Room_3
+W2_Mon_S2,2,SMTI_A,SMTI,Prof. Shiwangi Singh,Mon,10:45,12:15,Room_1
+W2_Mon_S3,2,DRV_B,DRV,Prof. Kamran Kuddus,Mon,12:30,14:00,Room_1
+W2_Mon_S3,2,PRI_A,PRI,Prof. Shweta Jha,Mon,12:30,14:00,Room_2
+W2_Mon_S4,2,IMKT_A,IMKT,Prof. Dipanjan Kumar Dey,Mon,14:45,16:15,Room_1
+W2_Mon_S4,2,NCM_A,NCM,Prof. Manish Kumar,Mon,14:45,16:15,Room_2
+W2_Mon_S4,2,SDM_B,SDM,Prof. Shibashish Chakraborty,Mon,14:45,16:15,Room_3
+W2_Mon_S5,2,DSMM_A,DSMM,Prof. Subhro Sarkar,Mon,16:30,18:00,Room_1
+W2_Mon_S5,2,FIS_B,FIS,Prof. Prasenjit Chakrabarti,Mon,16:30,18:00,Room_2
+W2_Mon_S6,2,CRM_B,CRM,Prof. Ankur Jha,Mon,18:15,19:45,Room_1
+W2_Mon_S6,2,DRV_A,DRV,Prof. Kamran Kuddus,Mon,18:15,19:45,Room_2
+W2_Sat_S1,2,CRM_A,CRM,Prof. Ankur Jha,Sat,09:00,10:30,Room_1
+W2_Sat_S1,2,PRI_B,PRI,Prof. Shweta Jha,Sat,09:00,10:30,Room_2
+W2_Sat_S2,2,EMPP_B,EMPP,Prof. Rajasekhar David,Sat,10:45,12:15,Room_1
+W2_Sat_S2,2,IM_B,IM,Prof. Anand,Sat,10:45,12:15,Room_2
+W2_Sat_S2,2,PBM_A,PBM,Prof. Aditya Shankar Mishra,Sat,10:45,12:15,Room_3
+W2_Sat_S3,2,DSMM_B,DSMM,Prof. Subhro Sarkar,Sat,12:30,14:00,Room_1
+W2_Sat_S3,2,PM_A,PM,Prof. Vijaya Dixit,Sat,12:30,14:00,Room_2
+W2_Sat_S4,2,BV_A,BV,Prof. Anand,Sat,14:45,16:15,Room_1
+W2_Sat_S4,2,IMC_B,IMC,Prof. T. Sai Vijay,Sat,14:45,16:15,Room_2
+W2_Sat_S5,2,DMPA_A,DMPA,Prof. Pradip Kumar Bala,Sat,16:30,18:00,Room_1
+W2_Sat_S5,2,DSMM_B,DSMM,Prof. Subhro Sarkar,Sat,16:30,18:00,Room_2
+W2_Sat_S6,2,DT_B,DT,Prof. Arindam Mukherjee,Sat,18:15,19:45,Room_1
+W2_Sat_S6,2,FIS_A,FIS,Prof. Prasenjit Chakrabarti,Sat,18:15,19:45,Room_2
+W2_Sat_S6,2,REE_A,REE,Prof. Rakhi Singh,Sat,18:15,19:45,Room_3
+W2_Sun_S1,2,FIS_B,FIS,Prof. Prasenjit Chakrabarti,Sun,09:00,10:30,Room_1
+W2_Sun_S1,2,SDM_A,SDM,Prof. Shibashish Chakraborty,Sun,09:00,10:30,Room_2
+W2_Sun_S2,2,SMTI_A,SMTI,Prof. Shiwangi Singh,Sun,10:45,12:15,Room_1
+W2_Sun_S3,2,SMTI_A,SMTI,Prof. Shiwangi Singh,Sun,12:30,14:00,Room_1
+W2_Sun_S4,2,CRM_A,CRM,Prof. Ankur Jha,Sun,15:30,17:00,Room_1
+W2_Sun_S4,2,DMPA_B,DMPA,Prof. Pradip Kumar Bala,Sun,15:30,17:00,Room_2
+W2_Sun_S4,2,ODC_B,ODC,Prof. Viraj Varma,Sun,15:30,17:00,Room_3
+W2_Thu_S1,2,CRM_A,CRM,Prof. Ankur Jha,Thu,09:00,10:30,Room_1
+W2_Thu_S1,2,PM_B,PM,Prof. Vijaya Dixit,Thu,09:00,10:30,Room_2
+W2_Thu_S2,2,DWDV_A,DWDV,Prof. Anupriya Khan,Thu,10:45,12:15,Room_1
+W2_Thu_S2,2,EMPP_A,EMPP,Prof. Rajasekhar David,Thu,10:45,12:15,Room_2
+W2_Thu_S2,2,ODC_B,ODC,Prof. Viraj Varma,Thu,10:45,12:15,Room_3
+W2_Thu_S3,2,CCS_A,CCS,Prof. Rohit Kumar,Thu,12:30,14:00,Room_1
+W2_Thu_S3,2,EMPP_B,EMPP,Prof. Rajasekhar David,Thu,12:30,14:00,Room_2
+W2_Thu_S3,2,IM_B,IM,Prof. Anand,Thu,12:30,14:00,Room_3
+W2_Thu_S4,2,CB_B,CB,Prof. M. Jyotsna Soni,Thu,14:45,16:15,Room_1
+W2_Thu_S4,2,CCS_A,CCS,Prof. Rohit Kumar,Thu,14:45,16:15,Room_2
+W2_Thu_S5,2,CRM_B,CRM,Prof. Ankur Jha,Thu,16:30,18:00,Room_1
+W2_Thu_S5,2,PBM_A,PBM,Prof. Aditya Shankar Mishra,Thu,16:30,18:00,Room_2
+W2_Thu_S6,2,DRV_B,DRV,Prof. Kamran Kuddus,Thu,18:15,19:45,Room_1
+W2_Thu_S6,2,FIS_A,FIS,Prof. Prasenjit Chakrabarti,Thu,18:15,19:45,Room_2
+W2_Thu_S6,2,GMRM_A,GMRM,Prof. Piyali Ghosh,Thu,18:15,19:45,Room_3
+W2_Tue_S1,2,CS_A,CS,Prof. Swarup Kumar Dutta,Tue,09:00,10:30,Room_1
+W2_Tue_S1,2,DSMM_B,DSMM,Prof. Subhro Sarkar,Tue,09:00,10:30,Room_2
+W2_Tue_S2,2,CRM_B,CRM,Prof. Ankur Jha,Tue,10:45,12:15,Room_1
+W2_Tue_S2,2,DSMM_A,DSMM,Prof. Subhro Sarkar,Tue,10:45,12:15,Room_2
+W2_Tue_S3,2,ODC_B,ODC,Prof. Viraj Varma,Tue,12:30,14:00,Room_1
+W2_Tue_S3,2,PBM_A,PBM,Prof. Aditya Shankar Mishra,Tue,12:30,14:00,Room_2
+W2_Tue_S3,2,SCM_B,SCM,Prof. Pritee Ray,Tue,12:30,14:00,Room_3
+W2_Tue_S4,2,DMPA_B,DMPA,Prof. Pradip Kumar Bala,Tue,14:45,16:15,Room_1
+W2_Tue_S4,2,DT_A,DT,Prof. Arindam Mukherjee,Tue,14:45,16:15,Room_2
+W2_Tue_S4,2,ODC_A,ODC,Prof. Viraj Varma,Tue,14:45,16:15,Room_3
+W2_Tue_S5,2,DTI_A,DTI,Prof. Rohit Kumar,Tue,16:30,18:00,Room_1
+W2_Tue_S5,2,IMKT_B,IMKT,Prof. Dipanjan Kumar Dey,Tue,16:30,18:00,Room_2
+W2_Tue_S6,2,CB_B,CB,Prof. M. Jyotsna Soni,Tue,18:15,19:45,Room_1
+W2_Tue_S6,2,DRV_A,DRV,Prof. Kamran Kuddus,Tue,18:15,19:45,Room_2
+W2_Wed_S1,2,BV_A,BV,Prof. Anand,Wed,09:00,10:30,Room_1
+W2_Wed_S1,2,IMC_B,IMC,Prof. T. Sai Vijay,Wed,09:00,10:30,Room_2
+W2_Wed_S2,2,FIS_A,FIS,Prof. Prasenjit Chakrabarti,Wed,10:45,12:15,Room_1
+W2_Wed_S2,2,PRI_B,PRI,Prof. Shweta Jha,Wed,10:45,12:15,Room_2
+W2_Wed_S3,2,CB_A,CB,Prof. M. Jyotsna Soni,Wed,12:30,14:00,Room_1
+W2_Wed_S3,2,SDM_B,SDM,Prof. Shibashish Chakraborty,Wed,12:30,14:00,Room_2
+W2_Wed_S4,2,CCS_B,CCS,Prof. Rohit Kumar,Wed,14:45,16:15,Room_1
+W2_Wed_S4,2,CRM_A,CRM,Prof. Ankur Jha,Wed,14:45,16:15,Room_2
+W2_Wed_S5,2,DWDV_A,DWDV,Prof. Anupriya Khan,Wed,16:30,18:00,Room_1
+W2_Wed_S5,2,ODC_B,ODC,Prof. Viraj Varma,Wed,16:30,18:00,Room_2
+W2_Wed_S6,2,DT_A,DT,Prof. Arindam Mukherjee,Wed,18:15,19:45,Room_1
+W2_Wed_S6,2,PM_B,PM,Prof. Vijaya Dixit,Wed,18:15,19:45,Room_2
+W3_Fri_S1,3,DWDV_A,DWDV,Prof. Anupriya Khan,Fri,09:00,10:30,Room_1
+W3_Fri_S1,3,GMRM_A,GMRM,Prof. Piyali Ghosh,Fri,09:00,10:30,Room_2
+W3_Fri_S2,3,CRM_B,CRM,Prof. Ankur Jha,Fri,10:45,12:15,Room_1
+W3_Fri_S2,3,EMPP_A,EMPP,Prof. Rajasekhar David,Fri,10:45,12:15,Room_2
+W3_Fri_S2,3,SCM_A,SCM,Prof. Pritee Ray,Fri,10:45,12:15,Room_3
+W3_Fri_S3,3,CS_A,CS,Prof. Swarup Kumar Dutta,Fri,12:30,14:00,Room_1
+W3_Fri_S3,3,DMPA_B,DMPA,Prof. Pradip Kumar Bala,Fri,12:30,14:00,Room_2
+W3_Fri_S4,3,IMKT_A,IMKT,Prof. Dipanjan Kumar Dey,Fri,14:45,16:15,Room_1
+W3_Fri_S4,3,NCM_A,NCM,Prof. Manish Kumar,Fri,14:45,16:15,Room_2
+W3_Fri_S4,3,SCM_B,SCM,Prof. Pritee Ray,Fri,14:45,16:15,Room_3
+W3_Fri_S5,3,BMS_A,BMS,Prof. Santosh Kumar Prusty,Fri,16:30,18:00,Room_1
+W3_Fri_S6,3,CB_B,CB,Prof. M. Jyotsna Soni,Fri,18:15,19:45,Room_1
+W3_Fri_S6,3,EMPP_A,EMPP,Prof. Rajasekhar David,Fri,18:15,19:45,Room_2
+W3_Fri_S6,3,SCM_A,SCM,Prof. Pritee Ray,Fri,18:15,19:45,Room_3
+W3_Mon_S1,3,DSMM_A,DSMM,Prof. Subhro Sarkar,Mon,09:00,10:30,Room_1
+W3_Mon_S1,3,ODC_B,ODC,Prof. Viraj Varma,Mon,09:00,10:30,Room_2
+W3_Mon_S1,3,SCM_B,SCM,Prof. Pritee Ray,Mon,09:00,10:30,Room_3
+W3_Mon_S2,3,DT_A,DT,Prof. Arindam Mukherjee,Mon,10:45,12:15,Room_1
+W3_Mon_S2,3,FIS_B,FIS,Prof. Prasenjit Chakrabarti,Mon,10:45,12:15,Room_2
+W3_Mon_S3,3,CB_B,CB,Prof. M. Jyotsna Soni,Mon,12:30,14:00,Room_1
+W3_Mon_S3,3,IMC_A,IMC,Prof. T. Sai Vijay,Mon,12:30,14:00,Room_2
+W3_Mon_S4,3,DRV_B,DRV,Prof. Kamran Kuddus,Mon,14:45,16:15,Room_1
+W3_Mon_S4,3,DT_A,DT,Prof. Arindam Mukherjee,Mon,14:45,16:15,Room_2
+W3_Mon_S5,3,BMS_A,BMS,Prof. Santosh Kumar Prusty,Mon,16:30,18:00,Room_1
+W3_Mon_S6,3,BMS_A,BMS,Prof. Santosh Kumar Prusty,Mon,18:15,19:45,Room_1
+W3_Sat_S1,3,BMS_A,BMS,Prof. Santosh Kumar Prusty,Sat,09:00,10:30,Room_1
+W3_Sat_S2,3,IMC_A,IMC,Prof. T. Sai Vijay,Sat,10:45,12:15,Room_1
+W3_Sat_S2,3,IMKT_B,IMKT,Prof. Dipanjan Kumar Dey,Sat,10:45,12:15,Room_2
+W3_Sat_S3,3,IMKT_B,IMKT,Prof. Dipanjan Kumar Dey,Sat,12:30,14:00,Room_1
+W3_Sat_S3,3,PM_A,PM,Prof. Vijaya Dixit,Sat,12:30,14:00,Room_2
+W3_Sat_S4,3,DMPA_A,DMPA,Prof. Pradip Kumar Bala,Sat,14:45,16:15,Room_1
+W3_Sat_S4,3,DTI_B,DTI,Prof. Rohit Kumar,Sat,14:45,16:15,Room_2
+W3_Sat_S4,3,EMPP_A,EMPP,Prof. Rajasekhar David,Sat,14:45,16:15,Room_3
+W3_Sat_S5,3,BMS_A,BMS,Prof. Santosh Kumar Prusty,Sat,16:30,18:00,Room_1
+W3_Sat_S6,3,DMPA_B,DMPA,Prof. Pradip Kumar Bala,Sat,18:15,19:45,Room_1
+W3_Sat_S6,3,DTI_A,DTI,Prof. Rohit Kumar,Sat,18:15,19:45,Room_2
+W3_Sun_S1,3,BMS_A,BMS,Prof. Santosh Kumar Prusty,Sun,09:00,10:30,Room_1
+W3_Sun_S2,3,DMPA_A,DMPA,Prof. Pradip Kumar Bala,Sun,10:45,12:15,Room_1
+W3_Sun_S2,3,PM_B,PM,Prof. Vijaya Dixit,Sun,10:45,12:15,Room_2
+W3_Sun_S3,3,CRM_B,CRM,Prof. Ankur Jha,Sun,12:30,14:00,Room_1
+W3_Sun_S3,3,NCM_A,NCM,Prof. Manish Kumar,Sun,12:30,14:00,Room_2
+W3_Sun_S3,3,SCM_A,SCM,Prof. Pritee Ray,Sun,12:30,14:00,Room_3
+W3_Sun_S4,3,CRM_A,CRM,Prof. Ankur Jha,Sun,15:30,17:00,Room_1
+W3_Sun_S4,3,DMPA_B,DMPA,Prof. Pradip Kumar Bala,Sun,15:30,17:00,Room_2
+W3_Thu_S1,3,DMPA_B,DMPA,Prof. Pradip Kumar Bala,Thu,09:00,10:30,Room_1
+W3_Thu_S1,3,PRI_A,PRI,Prof. Shweta Jha,Thu,09:00,10:30,Room_2
+W3_Thu_S2,3,DMPA_B,DMPA,Prof. Pradip Kumar Bala,Thu,10:45,12:15,Room_1
+W3_Thu_S2,3,DTI_A,DTI,Prof. Rohit Kumar,Thu,10:45,12:15,Room_2
+W3_Thu_S3,3,PM_B,PM,Prof. Vijaya Dixit,Thu,12:30,14:00,Room_1
+W3_Thu_S3,3,SCM_A,SCM,Prof. Pritee Ray,Thu,12:30,14:00,Room_2
+W3_Thu_S4,3,CCS_A,CCS,Prof. Rohit Kumar,Thu,14:45,16:15,Room_1
+W3_Thu_S4,3,PRI_B,PRI,Prof. Shweta Jha,Thu,14:45,16:15,Room_2
+W3_Thu_S5,3,DTI_B,DTI,Prof. Rohit Kumar,Thu,16:30,18:00,Room_1
+W3_Thu_S5,3,PRI_A,PRI,Prof. Shweta Jha,Thu,16:30,18:00,Room_2
+W3_Thu_S5,3,REE_A,REE,Prof. Rakhi Singh,Thu,16:30,18:00,Room_3
+W3_Thu_S6,3,DTI_A,DTI,Prof. Rohit Kumar,Thu,18:15,19:45,Room_1
+W3_Thu_S6,3,IMKT_B,IMKT,Prof. Dipanjan Kumar Dey,Thu,18:15,19:45,Room_2
+W3_Tue_S1,3,PBM_B,PBM,Prof. Aditya Shankar Mishra,Tue,09:00,10:30,Room_1
+W3_Tue_S1,3,PRI_A,PRI,Prof. Shweta Jha,Tue,09:00,10:30,Room_2
+W3_Tue_S2,3,CB_B,CB,Prof. M. Jyotsna Soni,Tue,10:45,12:15,Room_1
+W3_Tue_S2,3,FIS_A,FIS,Prof. Prasenjit Chakrabarti,Tue,10:45,12:15,Room_2
+W3_Tue_S2,3,GMRM_A,GMRM,Prof. Piyali Ghosh,Tue,10:45,12:15,Room_3
+W3_Tue_S3,3,EMPP_B,EMPP,Prof. Rajasekhar David,Tue,12:30,14:00,Room_1
+W3_Tue_S3,3,IMC_A,IMC,Prof. T. Sai Vijay,Tue,12:30,14:00,Room_2
+W3_Tue_S3,3,IM_B,IM,Prof. Anand,Tue,12:30,14:00,Room_3
+W3_Tue_S4,3,CCS_A,CCS,Prof. Rohit Kumar,Tue,14:45,16:15,Room_1
+W3_Tue_S4,3,DMPA_B,DMPA,Prof. Pradip Kumar Bala,Tue,14:45,16:15,Room_2
+W3_Tue_S4,3,ODC_B,ODC,Prof. Viraj Varma,Tue,14:45,16:15,Room_3
+W3_Tue_S5,3,EMPP_B,EMPP,Prof. Rajasekhar David,Tue,16:30,18:00,Room_1
+W3_Tue_S5,3,FIS_A,FIS,Prof. Prasenjit Chakrabarti,Tue,16:30,18:00,Room_2
+W3_Tue_S5,3,IM_B,IM,Prof. Anand,Tue,16:30,18:00,Room_3
+W3_Tue_S6,3,BV_A,BV,Prof. Anand,Tue,18:15,19:45,Room_1
+W3_Tue_S6,3,IMC_B,IMC,Prof. T. Sai Vijay,Tue,18:15,19:45,Room_2
+W3_Wed_S1,3,FIS_B,FIS,Prof. Prasenjit Chakrabarti,Wed,09:00,10:30,Room_1
+W3_Wed_S1,3,GMRM_A,GMRM,Prof. Piyali Ghosh,Wed,09:00,10:30,Room_2
+W3_Wed_S1,3,SCM_A,SCM,Prof. Pritee Ray,Wed,09:00,10:30,Room_3
+W3_Wed_S2,3,PBM_B,PBM,Prof. Aditya Shankar Mishra,Wed,10:45,12:15,Room_1
+W3_Wed_S2,3,SCM_A,SCM,Prof. Pritee Ray,Wed,10:45,12:15,Room_2
+W3_Wed_S3,3,PBM_B,PBM,Prof. Aditya Shankar Mishra,Wed,12:30,14:00,Room_1
+W3_Wed_S3,3,SDM_A,SDM,Prof. Shibashish Chakraborty,Wed,12:30,14:00,Room_2
+W3_Wed_S4,3,FIS_B,FIS,Prof. Prasenjit Chakrabarti,Wed,14:45,16:15,Room_1
+W3_Wed_S4,3,PBM_A,PBM,Prof. Aditya Shankar Mishra,Wed,14:45,16:15,Room_2
+W3_Wed_S5,3,CCS_B,CCS,Prof. Rohit Kumar,Wed,16:30,18:00,Room_1
+W3_Wed_S5,3,PBM_A,PBM,Prof. Aditya Shankar Mishra,Wed,16:30,18:00,Room_2
+W3_Wed_S6,3,DRV_A,DRV,Prof. Kamran Kuddus,Wed,18:15,19:45,Room_1
+W3_Wed_S6,3,EMPP_A,EMPP,Prof. Rajasekhar David,Wed,18:15,19:45,Room_2
+W3_Wed_S6,3,PBM_B,PBM,Prof. Aditya Shankar Mishra,Wed,18:15,19:45,Room_3
+W4_Fri_S1,4,SMTI_A,SMTI,Prof. Shiwangi Singh,Fri,09:00,10:30,Room_1
+W4_Fri_S2,4,IM_A,IM,Prof. Anand,Fri,10:45,12:15,Room_1
+W4_Fri_S2,4,ODC_B,ODC,Prof. Viraj Varma,Fri,10:45,12:15,Room_2
+W4_Fri_S2,4,SCM_B,SCM,Prof. Pritee Ray,Fri,10:45,12:15,Room_3
+W4_Fri_S3,4,CB_A,CB,Prof. M. Jyotsna Soni,Fri,12:30,14:00,Room_1
+W4_Fri_S3,4,GMRM_A,GMRM,Prof. Piyali Ghosh,Fri,12:30,14:00,Room_2
+W4_Fri_S3,4,PRI_B,PRI,Prof. Shweta Jha,Fri,12:30,14:00,Room_3
+W4_Fri_S4,4,IMC_B,IMC,Prof. T. Sai Vijay,Fri,14:45,16:15,Room_1
+W4_Fri_S4,4,PRI_A,PRI,Prof. Shweta Jha,Fri,14:45,16:15,Room_2
+W4_Fri_S4,4,REE_A,REE,Prof. Rakhi Singh,Fri,14:45,16:15,Room_3
+W4_Fri_S5,4,CRM_B,CRM,Prof. Ankur Jha,Fri,16:30,18:00,Room_1
+W4_Fri_S5,4,CS_A,CS,Prof. Swarup Kumar Dutta,Fri,16:30,18:00,Room_2
+W4_Fri_S6,4,SMTI_A,SMTI,Prof. Shiwangi Singh,Fri,18:15,19:45,Room_1
+W4_Mon_S1,4,DT_B,DT,Prof. Arindam Mukherjee,Mon,09:00,10:30,Room_1
+W4_Mon_S1,4,PBM_A,PBM,Prof. Aditya Shankar Mishra,Mon,09:00,10:30,Room_2
+W4_Mon_S2,4,CS_B,CS,Prof. Swarup Kumar Dutta,Mon,10:45,12:15,Room_1
+W4_Mon_S2,4,SDM_A,SDM,Prof. Shibashish Chakraborty,Mon,10:45,12:15,Room_2
+W4_Mon_S3,4,CB_B,CB,Prof. M. Jyotsna Soni,Mon,12:30,14:00,Room_1
+W4_Mon_S3,4,SDM_A,SDM,Prof. Shibashish Chakraborty,Mon,12:30,14:00,Room_2
+W4_Mon_S4,4,BMS_A,BMS,Prof. Santosh Kumar Prusty,Mon,14:45,16:15,Room_1
+W4_Mon_S5,4,DSMM_A,DSMM,Prof. Subhro Sarkar,Mon,16:30,18:00,Room_1
+W4_Mon_S5,4,PM_B,PM,Prof. Vijaya Dixit,Mon,16:30,18:00,Room_2
+W4_Mon_S6,4,CCS_A,CCS,Prof. Rohit Kumar,Mon,18:15,19:45,Room_1
+W4_Mon_S6,4,SDM_B,SDM,Prof. Shibashish Chakraborty,Mon,18:15,19:45,Room_2
+W4_Sat_S1,4,IMC_A,IMC,Prof. T. Sai Vijay,Sat,09:00,10:30,Room_1
+W4_Sat_S1,4,IMKT_B,IMKT,Prof. Dipanjan Kumar Dey,Sat,09:00,10:30,Room_2
+W4_Sat_S2,4,IMC_A,IMC,Prof. T. Sai Vijay,Sat,10:45,12:15,Room_1
+W4_Sat_S2,4,IMKT_B,IMKT,Prof. Dipanjan Kumar Dey,Sat,10:45,12:15,Room_2
+W4_Sat_S3,4,NCM_A,NCM,Prof. Manish Kumar,Sat,12:30,14:00,Room_1
+W4_Sat_S3,4,PBM_B,PBM,Prof. Aditya Shankar Mishra,Sat,12:30,14:00,Room_2
+W4_Sat_S3,4,SCM_A,SCM,Prof. Pritee Ray,Sat,12:30,14:00,Room_3
+W4_Sat_S4,4,CB_A,CB,Prof. M. Jyotsna Soni,Sat,14:45,16:15,Room_1
+W4_Sat_S4,4,CRM_B,CRM,Prof. Ankur Jha,Sat,14:45,16:15,Room_2
+W4_Sat_S5,4,CB_B,CB,Prof. M. Jyotsna Soni,Sat,16:30,18:00,Room_1
+W4_Sat_S5,4,DTI_A,DTI,Prof. Rohit Kumar,Sat,16:30,18:00,Room_2
+W4_Sat_S6,4,BV_A,BV,Prof. Anand,Sat,18:15,19:45,Room_1
+W4_Sat_S6,4,IMC_B,IMC,Prof. T. Sai Vijay,Sat,18:15,19:45,Room_2
+W4_Sun_S1,4,CS_B,CS,Prof. Swarup Kumar Dutta,Sun,09:00,10:30,Room_1
+W4_Sun_S1,4,DSMM_A,DSMM,Prof. Subhro Sarkar,Sun,09:00,10:30,Room_2
+W4_Sun_S2,4,DRV_A,DRV,Prof. Kamran Kuddus,Sun,10:45,12:15,Room_1
+W4_Sun_S2,4,PRI_B,PRI,Prof. Shweta Jha,Sun,10:45,12:15,Room_2
+W4_Sun_S3,4,CS_B,CS,Prof. Swarup Kumar Dutta,Sun,12:30,14:00,Room_1
+W4_Sun_S3,4,FIS_A,FIS,Prof. Prasenjit Chakrabarti,Sun,12:30,14:00,Room_2
+W4_Sun_S4,4,CCS_A,CCS,Prof. Rohit Kumar,Sun,15:30,17:00,Room_1
+W4_Sun_S4,4,SDM_B,SDM,Prof. Shibashish Chakraborty,Sun,15:30,17:00,Room_2
+W4_Thu_S1,4,BV_A,BV,Prof. Anand,Thu,09:00,10:30,Room_1
+W4_Thu_S1,4,IMC_B,IMC,Prof. T. Sai Vijay,Thu,09:00,10:30,Room_2
+W4_Thu_S2,4,PBM_B,PBM,Prof. Aditya Shankar Mishra,Thu,10:45,12:15,Room_1
+W4_Thu_S2,4,PRI_A,PRI,Prof. Shweta Jha,Thu,10:45,12:15,Room_2
+W4_Thu_S3,4,DRV_B,DRV,Prof. Kamran Kuddus,Thu,12:30,14:00,Room_1
+W4_Thu_S3,4,DTI_A,DTI,Prof. Rohit Kumar,Thu,12:30,14:00,Room_2
+W4_Thu_S4,4,CB_A,CB,Prof. M. Jyotsna Soni,Thu,14:45,16:15,Room_1
+W4_Thu_S4,4,SDM_B,SDM,Prof. Shibashish Chakraborty,Thu,14:45,16:15,Room_2
+W4_Thu_S5,4,DT_A,DT,Prof. Arindam Mukherjee,Thu,16:30,18:00,Room_1
+W4_Thu_S5,4,PM_B,PM,Prof. Vijaya Dixit,Thu,16:30,18:00,Room_2
+W4_Thu_S6,4,CRM_A,CRM,Prof. Ankur Jha,Thu,18:15,19:45,Room_1
+W4_Thu_S6,4,DRV_B,DRV,Prof. Kamran Kuddus,Thu,18:15,19:45,Room_2
+W4_Tue_S1,4,DRV_A,DRV,Prof. Kamran Kuddus,Tue,09:00,10:30,Room_1
+W4_Tue_S1,4,PRI_B,PRI,Prof. Shweta Jha,Tue,09:00,10:30,Room_2
+W4_Tue_S2,4,IMKT_B,IMKT,Prof. Dipanjan Kumar Dey,Tue,10:45,12:15,Room_1
+W4_Tue_S2,4,PM_A,PM,Prof. Vijaya Dixit,Tue,10:45,12:15,Room_2
+W4_Tue_S3,4,IMKT_B,IMKT,Prof. Dipanjan Kumar Dey,Tue,12:30,14:00,Room_1
+W4_Tue_S3,4,SDM_A,SDM,Prof. Shibashish Chakraborty,Tue,12:30,14:00,Room_2
+W4_Tue_S4,4,CRM_A,CRM,Prof. Ankur Jha,Tue,14:45,16:15,Room_1
+W4_Tue_S4,4,FIS_B,FIS,Prof. Prasenjit Chakrabarti,Tue,14:45,16:15,Room_2
+W4_Tue_S5,4,IM_A,IM,Prof. Anand,Tue,16:30,18:00,Room_1
+W4_Tue_S5,4,SDM_B,SDM,Prof. Shibashish Chakraborty,Tue,16:30,18:00,Room_2
+W4_Tue_S6,4,FIS_A,FIS,Prof. Prasenjit Chakrabarti,Tue,18:15,19:45,Room_1
+W4_Tue_S6,4,PM_B,PM,Prof. Vijaya Dixit,Tue,18:15,19:45,Room_2
+W4_Wed_S1,4,DSMM_A,DSMM,Prof. Subhro Sarkar,Wed,09:00,10:30,Room_1
+W4_Wed_S1,4,FIS_B,FIS,Prof. Prasenjit Chakrabarti,Wed,09:00,10:30,Room_2
+W4_Wed_S2,4,PRI_B,PRI,Prof. Shweta Jha,Wed,10:45,12:15,Room_1
+W4_Wed_S2,4,SCM_A,SCM,Prof. Pritee Ray,Wed,10:45,12:15,Room_2
+W4_Wed_S3,4,DTI_B,DTI,Prof. Rohit Kumar,Wed,12:30,14:00,Room_1
+W4_Wed_S3,4,PRI_A,PRI,Prof. Shweta Jha,Wed,12:30,14:00,Room_2
+W4_Wed_S3,4,REE_A,REE,Prof. Rakhi Singh,Wed,12:30,14:00,Room_3
+W4_Wed_S4,4,DRV_A,DRV,Prof. Kamran Kuddus,Wed,14:45,16:15,Room_1
+W4_Wed_S4,4,EMPP_A,EMPP,Prof. Rajasekhar David,Wed,14:45,16:15,Room_2
+W4_Wed_S4,4,IMKT_B,IMKT,Prof. Dipanjan Kumar Dey,Wed,14:45,16:15,Room_3
+W4_Wed_S5,4,DT_B,DT,Prof. Arindam Mukherjee,Wed,16:30,18:00,Room_1
+W4_Wed_S5,4,PM_A,PM,Prof. Vijaya Dixit,Wed,16:30,18:00,Room_2
+W4_Wed_S6,4,DT_A,DT,Prof. Arindam Mukherjee,Wed,18:15,19:45,Room_1
+W4_Wed_S6,4,GMRM_A,GMRM,Prof. Piyali Ghosh,Wed,18:15,19:45,Room_2
+W4_Wed_S6,4,PRI_B,PRI,Prof. Shweta Jha,Wed,18:15,19:45,Room_3
+W5_Fri_S1,5,SMTI_A,SMTI,Prof. Shiwangi Singh,Fri,09:00,10:30,Room_1
+W5_Fri_S2,5,BV_A,BV,Prof. Anand,Fri,10:45,12:15,Room_1
+W5_Fri_S2,5,IMC_B,IMC,Prof. T. Sai Vijay,Fri,10:45,12:15,Room_2
+W5_Fri_S3,5,DTI_A,DTI,Prof. Rohit Kumar,Fri,12:30,14:00,Room_1
+W5_Fri_S3,5,SDM_B,SDM,Prof. Shibashish Chakraborty,Fri,12:30,14:00,Room_2
+W5_Fri_S4,5,CRM_A,CRM,Prof. Ankur Jha,Fri,14:45,16:15,Room_1
+W5_Fri_S4,5,IMKT_B,IMKT,Prof. Dipanjan Kumar Dey,Fri,14:45,16:15,Room_2
+W5_Fri_S5,5,DRV_B,DRV,Prof. Kamran Kuddus,Fri,16:30,18:00,Room_1
+W5_Fri_S5,5,PRI_A,PRI,Prof. Shweta Jha,Fri,16:30,18:00,Room_2
+W5_Fri_S6,5,CRM_A,CRM,Prof. Ankur Jha,Fri,18:15,19:45,Room_1
+W5_Fri_S6,5,CS_B,CS,Prof. Swarup Kumar Dutta,Fri,18:15,19:45,Room_2
+W5_Mon_S1,5,DRV_A,DRV,Prof. Kamran Kuddus,Mon,09:00,10:30,Room_1
+W5_Mon_S1,5,PM_B,PM,Prof. Vijaya Dixit,Mon,09:00,10:30,Room_2
+W5_Mon_S2,5,DSMM_A,DSMM,Prof. Subhro Sarkar,Mon,10:45,12:15,Room_1
+W5_Mon_S2,5,DTI_B,DTI,Prof. Rohit Kumar,Mon,10:45,12:15,Room_2
+W5_Mon_S3,5,CCS_A,CCS,Prof. Rohit Kumar,Mon,12:30,14:00,Room_1
+W5_Mon_S3,5,DRV_B,DRV,Prof. Kamran Kuddus,Mon,12:30,14:00,Room_2
+W5_Mon_S4,5,PBM_B,PBM,Prof. Aditya Shankar Mishra,Mon,14:45,16:15,Room_1
+W5_Mon_S4,5,PM_A,PM,Prof. Vijaya Dixit,Mon,14:45,16:15,Room_2
+W5_Mon_S5,5,BV_A,BV,Prof. Anand,Mon,16:30,18:00,Room_1
+W5_Mon_S5,5,IMC_B,IMC,Prof. T. Sai Vijay,Mon,16:30,18:00,Room_2
+W5_Mon_S6,5,BMS_A,BMS,Prof. Santosh Kumar Prusty,Mon,18:15,19:45,Room_1
+W5_Sat_S1,5,DRV_A,DRV,Prof. Kamran Kuddus,Sat,09:00,10:30,Room_1
+W5_Sat_S1,5,EMPP_B,EMPP,Prof. Rajasekhar David,Sat,09:00,10:30,Room_2
+W5_Sat_S1,5,IM_B,IM,Prof. Anand,Sat,09:00,10:30,Room_3
+W5_Sat_S2,5,DWDV_A,DWDV,Prof. Anupriya Khan,Sat,10:45,12:15,Room_1
+W5_Sat_S2,5,EMPP_A,EMPP,Prof. Rajasekhar David,Sat,10:45,12:15,Room_2
+W5_Sat_S2,5,ODC_B,ODC,Prof. Viraj Varma,Sat,10:45,12:15,Room_3
+W5_Sat_S3,5,BMS_A,BMS,Prof. Santosh Kumar Prusty,Sat,12:30,14:00,Room_1
+W5_Sat_S4,5,CB_A,CB,Prof. M. Jyotsna Soni,Sat,14:45,16:15,Room_1
+W5_Sat_S4,5,DTI_B,DTI,Prof. Rohit Kumar,Sat,14:45,16:15,Room_2
+W5_Sat_S5,5,DRV_B,DRV,Prof. Kamran Kuddus,Sat,16:30,18:00,Room_1
+W5_Sat_S5,5,PM_A,PM,Prof. Vijaya Dixit,Sat,16:30,18:00,Room_2
+W5_Sat_S6,5,BMS_A,BMS,Prof. Santosh Kumar Prusty,Sat,18:15,19:45,Room_1
+W5_Sun_S1,5,CS_B,CS,Prof. Swarup Kumar Dutta,Sun,09:00,10:30,Room_1
+W5_Sun_S1,5,IM_A,IM,Prof. Anand,Sun,09:00,10:30,Room_2
+W5_Sun_S2,5,CRM_B,CRM,Prof. Ankur Jha,Sun,10:45,12:15,Room_1
+W5_Sun_S2,5,IMC_A,IMC,Prof. T. Sai Vijay,Sun,10:45,12:15,Room_2
+W5_Sun_S3,5,CCS_B,CCS,Prof. Rohit Kumar,Sun,12:30,14:00,Room_1
+W5_Sun_S3,5,PBM_A,PBM,Prof. Aditya Shankar Mishra,Sun,12:30,14:00,Room_2
+W5_Sun_S4,5,BV_A,BV,Prof. Anand,Sun,15:30,17:00,Room_1
+W5_Sun_S4,5,IMC_B,IMC,Prof. T. Sai Vijay,Sun,15:30,17:00,Room_2
+W5_Thu_S1,5,EMPP_A,EMPP,Prof. Rajasekhar David,Thu,09:00,10:30,Room_1
+W5_Thu_S1,5,PBM_B,PBM,Prof. Aditya Shankar Mishra,Thu,09:00,10:30,Room_2
+W5_Thu_S1,5,SCM_A,SCM,Prof. Pritee Ray,Thu,09:00,10:30,Room_3
+W5_Thu_S2,5,CS_A,CS,Prof. Swarup Kumar Dutta,Thu,10:45,12:15,Room_1
+W5_Thu_S2,5,DT_B,DT,Prof. Arindam Mukherjee,Thu,10:45,12:15,Room_2
+W5_Thu_S3,5,IMKT_B,IMKT,Prof. Dipanjan Kumar Dey,Thu,12:30,14:00,Room_1
+W5_Thu_S3,5,PM_A,PM,Prof. Vijaya Dixit,Thu,12:30,14:00,Room_2
+W5_Thu_S4,5,DWDV_A,DWDV,Prof. Anupriya Khan,Thu,14:45,16:15,Room_1
+W5_Thu_S5,5,CRM_A,CRM,Prof. Ankur Jha,Thu,16:30,18:00,Room_1
+W5_Thu_S5,5,IMKT_B,IMKT,Prof. Dipanjan Kumar Dey,Thu,16:30,18:00,Room_2
+W5_Thu_S6,5,ODC_A,ODC,Prof. Viraj Varma,Thu,18:15,19:45,Room_1
+W5_Thu_S6,5,PBM_B,PBM,Prof. Aditya Shankar Mishra,Thu,18:15,19:45,Room_2
+W5_Thu_S6,5,SDM_A,SDM,Prof. Shibashish Chakraborty,Thu,18:15,19:45,Room_3
+W5_Tue_S1,5,DWDV_A,DWDV,Prof. Anupriya Khan,Tue,09:00,10:30,Room_1
+W5_Tue_S1,5,ODC_A,ODC,Prof. Viraj Varma,Tue,09:00,10:30,Room_2
+W5_Tue_S2,5,CB_B,CB,Prof. M. Jyotsna Soni,Tue,10:45,12:15,Room_1
+W5_Tue_S2,5,IMC_A,IMC,Prof. T. Sai Vijay,Tue,10:45,12:15,Room_2
+W5_Tue_S3,5,DT_A,DT,Prof. Arindam Mukherjee,Tue,12:30,14:00,Room_1
+W5_Tue_S3,5,EMPP_B,EMPP,Prof. Rajasekhar David,Tue,12:30,14:00,Room_2
+W5_Tue_S3,5,IM_B,IM,Prof. Anand,Tue,12:30,14:00,Room_3
+W5_Tue_S3,5,ODC_A,ODC,Prof. Viraj Varma,Tue,12:30,14:00,Room_4
+W5_Tue_S4,5,DMPA_B,DMPA,Prof. Pradip Kumar Bala,Tue,14:45,16:15,Room_1
+W5_Tue_S4,5,GMRM_A,GMRM,Prof. Piyali Ghosh,Tue,14:45,16:15,Room_2
+W5_Tue_S4,5,IMKT_A,IMKT,Prof. Dipanjan Kumar Dey,Tue,14:45,16:15,Room_3
+W5_Tue_S5,5,DMPA_A,DMPA,Prof. Pradip Kumar Bala,Tue,16:30,18:00,Room_1
+W5_Tue_S5,5,EMPP_B,EMPP,Prof. Rajasekhar David,Tue,16:30,18:00,Room_2
+W5_Tue_S5,5,IM_B,IM,Prof. Anand,Tue,16:30,18:00,Room_3
+W5_Tue_S6,5,DT_A,DT,Prof. Arindam Mukherjee,Tue,18:15,19:45,Room_1
+W5_Tue_S6,5,FIS_B,FIS,Prof. Prasenjit Chakrabarti,Tue,18:15,19:45,Room_2
+W5_Wed_S1,5,CCS_A,CCS,Prof. Rohit Kumar,Wed,09:00,10:30,Room_1
+W5_Wed_S1,5,DRV_B,DRV,Prof. Kamran Kuddus,Wed,09:00,10:30,Room_2
+W5_Wed_S2,5,CCS_B,CCS,Prof. Rohit Kumar,Wed,10:45,12:15,Room_1
+W5_Wed_S2,5,PBM_A,PBM,Prof. Aditya Shankar Mishra,Wed,10:45,12:15,Room_2
+W5_Wed_S3,5,CCS_B,CCS,Prof. Rohit Kumar,Wed,12:30,14:00,Room_1
+W5_Wed_S3,5,DMPA_A,DMPA,Prof. Pradip Kumar Bala,Wed,12:30,14:00,Room_2
+W5_Wed_S3,5,ODC_A,ODC,Prof. Viraj Varma,Wed,12:30,14:00,Room_3
+W5_Wed_S4,5,DMPA_A,DMPA,Prof. Pradip Kumar Bala,Wed,14:45,16:15,Room_1
+W5_Wed_S4,5,EMPP_A,EMPP,Prof. Rajasekhar David,Wed,14:45,16:15,Room_2
+W5_Wed_S4,5,PBM_B,PBM,Prof. Aditya Shankar Mishra,Wed,14:45,16:15,Room_3
+W5_Wed_S5,5,SMTI_A,SMTI,Prof. Shiwangi Singh,Wed,16:30,18:00,Room_1
+W5_Wed_S6,5,DRV_B,DRV,Prof. Kamran Kuddus,Wed,18:15,19:45,Room_1
+W5_Wed_S6,5,FIS_A,FIS,Prof. Prasenjit Chakrabarti,Wed,18:15,19:45,Room_2
+W5_Wed_S6,5,REE_A,REE,Prof. Rakhi Singh,Wed,18:15,19:45,Room_3
+W6_Fri_S1,6,CCS_B,CCS,Prof. Rohit Kumar,Fri,09:00,10:30,Room_1
+W6_Fri_S1,6,PM_A,PM,Prof. Vijaya Dixit,Fri,09:00,10:30,Room_2
+W6_Fri_S2,6,CCS_B,CCS,Prof. Rohit Kumar,Fri,10:45,12:15,Room_1
+W6_Fri_S2,6,DMPA_A,DMPA,Prof. Pradip Kumar Bala,Fri,10:45,12:15,Room_2
+W6_Fri_S2,6,ODC_A,ODC,Prof. Viraj Varma,Fri,10:45,12:15,Room_3
+W6_Fri_S3,6,PM_B,PM,Prof. Vijaya Dixit,Fri,12:30,14:00,Room_1
+W6_Fri_S3,6,SDM_A,SDM,Prof. Shibashish Chakraborty,Fri,12:30,14:00,Room_2
+W6_Fri_S4,6,FIS_B,FIS,Prof. Prasenjit Chakrabarti,Fri,14:45,16:15,Room_1
+W6_Fri_S4,6,ODC_A,ODC,Prof. Viraj Varma,Fri,14:45,16:15,Room_2
+W6_Fri_S4,6,SCM_A,SCM,Prof. Pritee Ray,Fri,14:45,16:15,Room_3
+W6_Fri_S5,6,BV_A,BV,Prof. Anand,Fri,16:30,18:00,Room_1
+W6_Fri_S5,6,IMC_B,IMC,Prof. T. Sai Vijay,Fri,16:30,18:00,Room_2
+W6_Fri_S6,6,DMPA_B,DMPA,Prof. Pradip Kumar Bala,Fri,18:15,19:45,Room_1
+W6_Fri_S6,6,FIS_A,FIS,Prof. Prasenjit Chakrabarti,Fri,18:15,19:45,Room_2
+W6_Fri_S6,6,REE_A,REE,Prof. Rakhi Singh,Fri,18:15,19:45,Room_3
+W6_Mon_S1,6,DSMM_A,DSMM,Prof. Subhro Sarkar,Mon,09:00,10:30,Room_1
+W6_Mon_S1,6,EMPP_B,EMPP,Prof. Rajasekhar David,Mon,09:00,10:30,Room_2
+W6_Mon_S1,6,IM_B,IM,Prof. Anand,Mon,09:00,10:30,Room_3
+W6_Mon_S2,6,BMS_A,BMS,Prof. Santosh Kumar Prusty,Mon,10:45,12:15,Room_1
+W6_Mon_S3,6,CCS_A,CCS,Prof. Rohit Kumar,Mon,12:30,14:00,Room_1
+W6_Mon_S3,6,CRM_B,CRM,Prof. Ankur Jha,Mon,12:30,14:00,Room_2
+W6_Mon_S4,6,DSMM_A,DSMM,Prof. Subhro Sarkar,Mon,14:45,16:15,Room_1
+W6_Mon_S4,6,IMKT_B,IMKT,Prof. Dipanjan Kumar Dey,Mon,14:45,16:15,Room_2
+W6_Mon_S5,6,CCS_A,CCS,Prof. Rohit Kumar,Mon,16:30,18:00,Room_1
+W6_Mon_S5,6,PM_B,PM,Prof. Vijaya Dixit,Mon,16:30,18:00,Room_2
+W6_Mon_S6,6,BV_A,BV,Prof. Anand,Mon,18:15,19:45,Room_1
+W6_Mon_S6,6,IMC_B,IMC,Prof. T. Sai Vijay,Mon,18:15,19:45,Room_2
+W6_Sat_S1,6,DWDV_A,DWDV,Prof. Anupriya Khan,Sat,09:00,10:30,Room_1
+W6_Sat_S2,6,BMS_A,BMS,Prof. Santosh Kumar Prusty,Sat,10:45,12:15,Room_1
+W6_Sat_S3,6,DTI_A,DTI,Prof. Rogers,Sat,12:30,14:00,Room_1
+W6_Sat_S3,6,IMKT_B,IMKT,Prof. Dipanjan Kumar Dey,Sat,12:30,14:00,Room_2
+W6_Sat_S4,6,DT_A,DT,Prof. Arindam Mukherjee,Sat,14:45,16:15,Room_1
+W6_Sat_S4,6,EMPP_B,EMPP,Prof. Rajasekhar David,Sat,14:45,16:15,Room_2
+W6_Sat_S4,6,IM_B,IM,Prof. Anand,Sat,14:45,16:15,Room_3
+W6_Sat_S5,6,CCS_B,CCS,Prof. Rohit Kumar,Sat,16:30,18:00,Room_1
+W6_Sat_S5,6,PBM_A,PBM,Prof. Aditya Shankar Mishra,Sat,16:30,18:00,Room_2
+W6_Sat_S6,6,CCS_A,CCS,Prof. Rohit Kumar,Sat,18:15,19:45,Room_1
+W6_Sat_S6,6,EMPP_B,EMPP,Prof. Rajasekhar David,Sat,18:15,19:45,Room_2
+W6_Sat_S6,6,IM_B,IM,Prof. Anand,Sat,18:15,19:45,Room_3
+W6_Sun_S1,6,CRM_B,CRM,Prof. Ankur Jha,Sun,09:00,10:30,Room_1
+W6_Sun_S1,6,CS_A,CS,Prof. Swarup Kumar Dutta,Sun,09:00,10:30,Room_2
+W6_Sun_S2,6,DRV_A,DRV,Prof. Kamran Kuddus,Sun,10:45,12:15,Room_1
+W6_Sun_S2,6,DSMM_B,DSMM,Prof. Subhro Sarkar,Sun,10:45,12:15,Room_2
+W6_Sun_S3,6,NCM_A,NCM,Prof. Manish Kumar,Sun,12:30,14:00,Room_1
+W6_Sun_S3,6,PRI_B,PRI,Prof. Shweta Jha,Sun,12:30,14:00,Room_2
+W6_Sun_S3,6,SCM_A,SCM,Prof. Pritee Ray,Sun,12:30,14:00,Room_3
+W6_Sun_S4,6,DRV_A,DRV,Prof. Kamran Kuddus,Sun,15:30,17:00,Room_1
+W6_Sun_S4,6,IMKT_B,IMKT,Prof. Dipanjan Kumar Dey,Sun,15:30,17:00,Room_2
+W6_Thu_S1,6,DMPA_B,DMPA,Prof. Pradip Kumar Bala,Thu,09:00,10:30,Room_1
+W6_Thu_S1,6,IMC_A,IMC,Prof. T. Sai Vijay,Thu,09:00,10:30,Room_2
+W6_Thu_S2,6,SMTI_A,SMTI,Prof. Shiwangi Singh,Thu,10:45,12:15,Room_1
+W6_Thu_S3,6,CCS_B,CCS,Prof. Rohit Kumar,Thu,12:30,14:00,Room_1
+W6_Thu_S3,6,DTI_A,DTI,Prof. Rogers,Thu,12:30,14:00,Room_2
+W6_Thu_S4,6,DTI_B,DTI,Prof. Rogers,Thu,14:45,16:15,Room_1
+W6_Thu_S4,6,PRI_A,PRI,Prof. Shweta Jha,Thu,14:45,16:15,Room_2
+W6_Thu_S4,6,REE_A,REE,Prof. Rakhi Singh,Thu,14:45,16:15,Room_3
+W6_Thu_S5,6,SMTI_A,SMTI,Prof. Shiwangi Singh,Thu,16:30,18:00,Room_1
+W6_Thu_S6,6,DMPA_B,DMPA,Prof. Pradip Kumar Bala,Thu,18:15,19:45,Room_1
+W6_Thu_S6,6,DT_A,DT,Prof. Arindam Mukherjee,Thu,18:15,19:45,Room_2
+W6_Thu_S6,6,GMRM_A,GMRM,Prof. Piyali Ghosh,Thu,18:15,19:45,Room_3
+W6_Tue_S1,6,IM_A,IM,Prof. Anand,Tue,09:00,10:30,Room_1
+W6_Tue_S1,6,ODC_B,ODC,Prof. Viraj Varma,Tue,09:00,10:30,Room_2
+W6_Tue_S1,6,SCM_B,SCM,Prof. Pritee Ray,Tue,09:00,10:30,Room_3
+W6_Tue_S2,6,CS_A,CS,Prof. Swarup Kumar Dutta,Tue,10:45,12:15,Room_1
+W6_Tue_S2,6,PRI_B,PRI,Prof. Shweta Jha,Tue,10:45,12:15,Room_2
+W6_Tue_S3,6,DWDV_A,DWDV,Prof. Anupriya Khan,Tue,12:30,14:00,Room_1
+W6_Tue_S3,6,REE_A,REE,Prof. Rakhi Singh,Tue,12:30,14:00,Room_2
+W6_Tue_S4,6,DMPA_B,DMPA,Prof. Pradip Kumar Bala,Tue,14:45,16:15,Room_1
+W6_Tue_S4,6,IM_A,IM,Prof. Anand,Tue,14:45,16:15,Room_2
+W6_Tue_S4,6,ODC_B,ODC,Prof. Viraj Varma,Tue,14:45,16:15,Room_3
+W6_Tue_S5,6,DRV_A,DRV,Prof. Kamran Kuddus,Tue,16:30,18:00,Room_1
+W6_Tue_S5,6,REE_A,REE,Prof. Rakhi Singh,Tue,16:30,18:00,Room_2
+W6_Tue_S5,6,SCM_B,SCM,Prof. Pritee Ray,Tue,16:30,18:00,Room_3
+W6_Tue_S6,6,DMPA_A,DMPA,Prof. Pradip Kumar Bala,Tue,18:15,19:45,Room_1
+W6_Tue_S6,6,EMPP_A,EMPP,Prof. Rajasekhar David,Tue,18:15,19:45,Room_2
+W6_Tue_S6,6,SDM_B,SDM,Prof. Shibashish Chakraborty,Tue,18:15,19:45,Room_3
+W6_Wed_S1,6,PRI_A,PRI,Prof. Shweta Jha,Wed,09:00,10:30,Room_1
+W6_Wed_S1,6,REE_A,REE,Prof. Rakhi Singh,Wed,09:00,10:30,Room_2
+W6_Wed_S1,6,SCM_B,SCM,Prof. Pritee Ray,Wed,09:00,10:30,Room_3
+W6_Wed_S2,6,DMPA_A,DMPA,Prof. Pradip Kumar Bala,Wed,10:45,12:15,Room_1
+W6_Wed_S2,6,DSMM_B,DSMM,Prof. Subhro Sarkar,Wed,10:45,12:15,Room_2
+W6_Wed_S2,6,ODC_A,ODC,Prof. Viraj Varma,Wed,10:45,12:15,Room_3
+W6_Wed_S3,6,DT_A,DT,Prof. Arindam Mukherjee,Wed,12:30,14:00,Room_1
+W6_Wed_S3,6,ODC_A,ODC,Prof. Viraj Varma,Wed,12:30,14:00,Room_2
+W6_Wed_S3,6,PM_B,PM,Prof. Vijaya Dixit,Wed,12:30,14:00,Room_3
+W6_Wed_S4,6,CB_A,CB,Prof. M. Jyotsna Soni,Wed,14:45,16:15,Room_1
+W6_Wed_S4,6,SDM_B,SDM,Prof. Shibashish Chakraborty,Wed,14:45,16:15,Room_2
+W6_Wed_S5,6,CS_A,CS,Prof. Swarup Kumar Dutta,Wed,16:30,18:00,Room_1
+W6_Wed_S5,6,DSMM_B,DSMM,Prof. Subhro Sarkar,Wed,16:30,18:00,Room_2
+W6_Wed_S6,6,BMS_A,BMS,Prof. Santosh Kumar Prusty,Wed,18:15,19:45,Room_1
+W7_Fri_S1,7,BV_A,BV,Prof. Anand,Fri,09:00,10:30,Room_1
+W7_Fri_S1,7,IMC_B,IMC,Prof. T. Sai Vijay,Fri,09:00,10:30,Room_2
+W7_Fri_S2,7,DT_B,DT,Prof. Arindam Mukherjee,Fri,10:45,12:15,Room_1
+W7_Fri_S2,7,IMC_A,IMC,Prof. T. Sai Vijay,Fri,10:45,12:15,Room_2
+W7_Fri_S3,7,FIS_A,FIS,Prof. Prasenjit Chakrabarti,Fri,12:30,14:00,Room_1
+W7_Fri_S3,7,SCM_B,SCM,Prof. Pritee Ray,Fri,12:30,14:00,Room_2
+W7_Fri_S4,7,CCS_B,CCS,Prof. Rohit Kumar,Fri,14:45,16:15,Room_1
+W7_Fri_S4,7,DSMM_A,DSMM,Prof. Subhro Sarkar,Fri,14:45,16:15,Room_2
+W7_Fri_S5,7,CRM_B,CRM,Prof. Ankur Jha,Fri,16:30,18:00,Room_1
+W7_Fri_S5,7,IMC_A,IMC,Prof. T. Sai Vijay,Fri,16:30,18:00,Room_2
+W7_Fri_S6,7,DRV_A,DRV,Prof. Kamran Kuddus,Fri,18:15,19:45,Room_1
+W7_Fri_S6,7,FIS_B,FIS,Prof. Prasenjit Chakrabarti,Fri,18:15,19:45,Room_2
+W7_Fri_S6,7,REE_A,REE,Prof. Rakhi Singh,Fri,18:15,19:45,Room_3
+W7_Mon_S1,7,IM_A,IM,Prof. Anand,Mon,09:00,10:30,Room_1
+W7_Mon_S1,7,ODC_B,ODC,Prof. Viraj Varma,Mon,09:00,10:30,Room_2
+W7_Mon_S1,7,SCM_B,SCM,Prof. Pritee Ray,Mon,09:00,10:30,Room_3
+W7_Mon_S2,7,CS_B,CS,Prof. Swarup Kumar Dutta,Mon,10:45,12:15,Room_1
+W7_Mon_S2,7,IMC_A,IMC,Prof. T. Sai Vijay,Mon,10:45,12:15,Room_2
+W7_Mon_S3,7,DWDV_A,DWDV,Prof. Anupriya Khan,Mon,12:30,14:00,Room_1
+W7_Mon_S3,7,EMPP_A,EMPP,Prof. Rajasekhar David,Mon,12:30,14:00,Room_2
+W7_Mon_S3,7,ODC_B,ODC,Prof. Viraj Varma,Mon,12:30,14:00,Room_3
+W7_Mon_S4,7,DMPA_A,DMPA,Prof. Pradip Kumar Bala,Mon,14:45,16:15,Room_1
+W7_Mon_S4,7,PM_B,PM,Prof. Vijaya Dixit,Mon,14:45,16:15,Room_2
+W7_Mon_S5,7,CS_B,CS,Prof. Swarup Kumar Dutta,Mon,16:30,18:00,Room_1
+W7_Mon_S5,7,IM_A,IM,Prof. Anand,Mon,16:30,18:00,Room_2
+W7_Mon_S6,7,DT_A,DT,Prof. Arindam Mukherjee,Mon,18:15,19:45,Room_1
+W7_Mon_S6,7,EMPP_B,EMPP,Prof. Rajasekhar David,Mon,18:15,19:45,Room_2
+W7_Mon_S6,7,IM_B,IM,Prof. Anand,Mon,18:15,19:45,Room_3
+W7_Sat_S1,7,PBM_A,PBM,Prof. Aditya Shankar Mishra,Sat,09:00,10:30,Room_1
+W7_Sat_S1,7,SDM_B,SDM,Prof. Shibashish Chakraborty,Sat,09:00,10:30,Room_2
+W7_Sat_S2,7,DT_B,DT,Prof. Arindam Mukherjee,Sat,10:45,12:15,Room_1
+W7_Sat_S2,7,FIS_A,FIS,Prof. Prasenjit Chakrabarti,Sat,10:45,12:15,Room_2
+W7_Sat_S3,7,BMS_A,BMS,Prof. Santosh Kumar Prusty,Sat,12:30,14:00,Room_1
+W7_Sat_S4,7,DWDV_A,DWDV,Prof. Anupriya Khan,Sat,14:45,16:15,Room_1
+W7_Sat_S4,7,REE_A,REE,Prof. Rakhi Singh,Sat,14:45,16:15,Room_2
+W7_Sat_S5,7,DT_A,DT,Prof. Arindam Mukherjee,Sat,16:30,18:00,Room_1
+W7_Sat_S5,7,PM_B,PM,Prof. Vijaya Dixit,Sat,16:30,18:00,Room_2
+W7_Sat_S6,7,EMPP_B,EMPP,Prof. Rajasekhar David,Sat,18:15,19:45,Room_1
+W7_Sat_S6,7,IM_B,IM,Prof. Anand,Sat,18:15,19:45,Room_2
+W7_Sat_S6,7,ODC_A,ODC,Prof. Viraj Varma,Sat,18:15,19:45,Room_3
+W7_Sat_S6,7,SDM_A,SDM,Prof. Shibashish Chakraborty,Sat,18:15,19:45,Room_4
+W7_Sun_S1,7,FIS_B,FIS,Prof. Prasenjit Chakrabarti,Sun,09:00,10:30,Room_1
+W7_Sun_S1,7,PRI_A,PRI,Prof. Shweta Jha,Sun,09:00,10:30,Room_2
+W7_Sun_S2,7,CB_B,CB,Prof. M. Jyotsna Soni,Sun,10:45,12:15,Room_1
+W7_Sun_S2,7,ODC_A,ODC,Prof. Viraj Varma,Sun,10:45,12:15,Room_2
+W7_Sun_S2,7,PBM_A,PBM,Prof. Aditya Shankar Mishra,Sun,10:45,12:15,Room_3
+W7_Sun_S3,7,CCS_B,CCS,Prof. Rohit Kumar,Sun,12:30,14:00,Room_1
+W7_Sun_S3,7,PBM_A,PBM,Prof. Aditya Shankar Mishra,Sun,12:30,14:00,Room_2
+W7_Sun_S4,7,CS_A,CS,Prof. Swarup Kumar Dutta,Sun,15:30,17:00,Room_1
+W7_Sun_S4,7,DSMM_B,DSMM,Prof. Subhro Sarkar,Sun,15:30,17:00,Room_2
+W7_Thu_S1,7,DRV_B,DRV,Prof. Kamran Kuddus,Thu,09:00,10:30,Room_1
+W7_Thu_S1,7,PBM_A,PBM,Prof. Aditya Shankar Mishra,Thu,09:00,10:30,Room_2
+W7_Thu_S2,7,DSMM_B,DSMM,Prof. Subhro Sarkar,Thu,10:45,12:15,Room_1
+W7_Thu_S2,7,FIS_A,FIS,Prof. Prasenjit Chakrabarti,Thu,10:45,12:15,Room_2
+W7_Thu_S3,7,CCS_A,CCS,Prof. Rohit Kumar,Thu,12:30,14:00,Room_1
+W7_Thu_S3,7,DSMM_B,DSMM,Prof. Subhro Sarkar,Thu,12:30,14:00,Room_2
+W7_Thu_S4,7,SMTI_A,SMTI,Prof. Shiwangi Singh,Thu,14:45,16:15,Room_1
+W7_Thu_S5,7,CB_A,CB,Prof. M. Jyotsna Soni,Thu,16:30,18:00,Room_1
+W7_Thu_S5,7,CS_B,CS,Prof. Swarup Kumar Dutta,Thu,16:30,18:00,Room_2
+W7_Thu_S6,7,DMPA_B,DMPA,Prof. Pradip Kumar Bala,Thu,18:15,19:45,Room_1
+W7_Thu_S6,7,ODC_B,ODC,Prof. Viraj Varma,Thu,18:15,19:45,Room_2
+W7_Thu_S6,7,PM_A,PM,Prof. Vijaya Dixit,Thu,18:15,19:45,Room_3
+W7_Tue_S1,7,SMTI_A,SMTI,Prof. Shiwangi Singh,Tue,09:00,10:30,Room_1
+W7_Tue_S2,7,DTI_A,DTI,Prof. Rogers,Tue,10:45,12:15,Room_1
+W7_Tue_S2,7,FIS_B,FIS,Prof. Prasenjit Chakrabarti,Tue,10:45,12:15,Room_2
+W7_Tue_S3,7,DT_B,DT,Prof. Arindam Mukherjee,Tue,12:30,14:00,Room_1
+W7_Tue_S3,7,IM_A,IM,Prof. Anand,Tue,12:30,14:00,Room_2
+W7_Tue_S4,7,DSMM_B,DSMM,Prof. Subhro Sarkar,Tue,14:45,16:15,Room_1
+W7_Tue_S4,7,IM_A,IM,Prof. Anand,Tue,14:45,16:15,Room_2
+W7_Tue_S5,7,PBM_B,PBM,Prof. Aditya Shankar Mishra,Tue,16:30,18:00,Room_1
+W7_Tue_S5,7,PRI_A,PRI,Prof. Shweta Jha,Tue,16:30,18:00,Room_2
+W7_Tue_S6,7,CRM_B,CRM,Prof. Ankur Jha,Tue,18:15,19:45,Room_1
+W7_Tue_S6,7,DRV_A,DRV,Prof. Kamran Kuddus,Tue,18:15,19:45,Room_2
+W7_Wed_S1,7,DSMM_B,DSMM,Prof. Subhro Sarkar,Wed,09:00,10:30,Room_1
+W7_Wed_S1,7,PM_A,PM,Prof. Vijaya Dixit,Wed,09:00,10:30,Room_2
+W7_Wed_S2,7,DT_A,DT,Prof. Arindam Mukherjee,Wed,10:45,12:15,Room_1
+W7_Wed_S2,7,GMRM_A,GMRM,Prof. Piyali Ghosh,Wed,10:45,12:15,Room_2
+W7_Wed_S2,7,PRI_B,PRI,Prof. Shweta Jha,Wed,10:45,12:15,Room_3
+W7_Wed_S3,7,CS_B,CS,Prof. Swarup Kumar Dutta,Wed,12:30,14:00,Room_1
+W7_Wed_S3,7,PM_A,PM,Prof. Vijaya Dixit,Wed,12:30,14:00,Room_2
+W7_Wed_S4,7,CCS_A,CCS,Prof. Rohit Kumar,Wed,14:45,16:15,Room_1
+W7_Wed_S4,7,DTI_B,DTI,Prof. Rogers,Wed,14:45,16:15,Room_2
+W7_Wed_S5,7,DRV_A,DRV,Prof. Kamran Kuddus,Wed,16:30,18:00,Room_1
+W7_Wed_S5,7,EMPP_A,EMPP,Prof. Rajasekhar David,Wed,16:30,18:00,Room_2
+W7_Wed_S5,7,IMC_B,IMC,Prof. T. Sai Vijay,Wed,16:30,18:00,Room_3
+W7_Wed_S6,7,DT_B,DT,Prof. Arindam Mukherjee,Wed,18:15,19:45,Room_1
+W7_Wed_S6,7,SDM_A,SDM,Prof. Shibashish Chakraborty,Wed,18:15,19:45,Room_2
+W8_Fri_S1,8,BV_A,BV,Prof. Anand,Fri,09:00,10:30,Room_1
+W8_Fri_S1,8,IMC_B,IMC,Prof. T. Sai Vijay,Fri,09:00,10:30,Room_2
+W8_Fri_S2,8,DTI_B,DTI,Prof. Rogers,Fri,10:45,12:15,Room_1
+W8_Fri_S2,8,SDM_A,SDM,Prof. Shibashish Chakraborty,Fri,10:45,12:15,Room_2
+W8_Fri_S3,8,IMKT_A,IMKT,Prof. Dipanjan Kumar Dey,Fri,12:30,14:00,Room_1
+W8_Fri_S3,8,NCM_A,NCM,Prof. Manish Kumar,Fri,12:30,14:00,Room_2
+W8_Fri_S3,8,SDM_B,SDM,Prof. Shibashish Chakraborty,Fri,12:30,14:00,Room_3
+W8_Fri_S4,8,CRM_B,CRM,Prof. Ankur Jha,Fri,14:45,16:15,Room_1
+W8_Fri_S4,8,PBM_A,PBM,Prof. Aditya Shankar Mishra,Fri,14:45,16:15,Room_2
+W8_Fri_S5,8,CS_B,CS,Prof. Swarup Kumar Dutta,Fri,16:30,18:00,Room_1
+W8_Fri_S5,8,FIS_A,FIS,Prof. Prasenjit Chakrabarti,Fri,16:30,18:00,Room_2
+W8_Fri_S6,8,DTI_B,DTI,Prof. Rogers,Fri,18:15,19:45,Room_1
+W8_Fri_S6,8,FIS_A,FIS,Prof. Prasenjit Chakrabarti,Fri,18:15,19:45,Room_2
+W8_Fri_S6,8,REE_A,REE,Prof. Rakhi Singh,Fri,18:15,19:45,Room_3
+W8_Mon_S1,8,EMPP_B,EMPP,Prof. Rajasekhar David,Mon,09:00,10:30,Room_1
+W8_Mon_S1,8,IMC_A,IMC,Prof. T. Sai Vijay,Mon,09:00,10:30,Room_2
+W8_Mon_S1,8,IM_B,IM,Prof. Anand,Mon,09:00,10:30,Room_3
+W8_Mon_S2,8,CB_A,CB,Prof. M. Jyotsna Soni,Mon,10:45,12:15,Room_1
+W8_Mon_S2,8,DRV_B,DRV,Prof. Kamran Kuddus,Mon,10:45,12:15,Room_2
+W8_Mon_S2,8,GMRM_A,GMRM,Prof. Piyali Ghosh,Mon,10:45,12:15,Room_3
+W8_Mon_S3,8,IMC_A,IMC,Prof. T. Sai Vijay,Mon,12:30,14:00,Room_1
+W8_Mon_S3,8,IMKT_B,IMKT,Prof. Dipanjan Kumar Dey,Mon,12:30,14:00,Room_2
+W8_Mon_S4,8,CRM_A,CRM,Prof. Ankur Jha,Mon,14:45,16:15,Room_1
+W8_Mon_S4,8,DSMM_B,DSMM,Prof. Subhro Sarkar,Mon,14:45,16:15,Room_2
+W8_Mon_S5,8,DT_B,DT,Prof. Arindam Mukherjee,Mon,16:30,18:00,Room_1
+W8_Mon_S5,8,SDM_A,SDM,Prof. Shibashish Chakraborty,Mon,16:30,18:00,Room_2
+W8_Mon_S6,8,DRV_A,DRV,Prof. Kamran Kuddus,Mon,18:15,19:45,Room_1
+W8_Mon_S6,8,ODC_B,ODC,Prof. Viraj Varma,Mon,18:15,19:45,Room_2
+W8_Mon_S6,8,SCM_B,SCM,Prof. Pritee Ray,Mon,18:15,19:45,Room_3
+W8_Sat_S1,8,IMKT_B,IMKT,Prof. Dipanjan Kumar Dey,Sat,09:00,10:30,Room_1
+W8_Sat_S1,8,ODC_A,ODC,Prof. Viraj Varma,Sat,09:00,10:30,Room_2
+W8_Sat_S1,8,PBM_A,PBM,Prof. Aditya Shankar Mishra,Sat,09:00,10:30,Room_3
+W8_Sat_S2,8,IMC_A,IMC,Prof. T. Sai Vijay,Sat,10:45,12:15,Room_1
+W8_Sat_S2,8,PBM_B,PBM,Prof. Aditya Shankar Mishra,Sat,10:45,12:15,Room_2
+W8_Sat_S3,8,SMTI_A,SMTI,Prof. Shiwangi Singh,Sat,12:30,14:00,Room_1
+W8_Sat_S4,8,DT_A,DT,Prof. Arindam Mukherjee,Sat,14:45,16:15,Room_1
+W8_Sat_S4,8,PM_B,PM,Prof. Vijaya Dixit,Sat,14:45,16:15,Room_2
+W8_Sat_S5,8,IMKT_A,IMKT,Prof. Dipanjan Kumar Dey,Sat,16:30,18:00,Room_1
+W8_Sat_S5,8,ODC_A,ODC,Prof. Viraj Varma,Sat,16:30,18:00,Room_2
+W8_Sat_S5,8,PRI_B,PRI,Prof. Shweta Jha,Sat,16:30,18:00,Room_3
+W8_Sat_S6,8,DTI_B,DTI,Prof. Rogers,Sat,18:15,19:45,Room_1
+W8_Sat_S6,8,IMKT_A,IMKT,Prof. Dipanjan Kumar Dey,Sat,18:15,19:45,Room_2
+W8_Sat_S6,8,NCM_A,NCM,Prof. Manish Kumar,Sat,18:15,19:45,Room_3
+W8_Sun_S1,8,FIS_A,FIS,Prof. Prasenjit Chakrabarti,Sun,09:00,10:30,Room_1
+W8_Sun_S1,8,REE_A,REE,Prof. Rakhi Singh,Sun,09:00,10:30,Room_2
+W8_Sun_S1,8,SDM_B,SDM,Prof. Shibashish Chakraborty,Sun,09:00,10:30,Room_3
+W8_Sun_S2,8,CS_B,CS,Prof. Swarup Kumar Dutta,Sun,10:45,12:15,Room_1
+W8_Sun_S2,8,IM_A,IM,Prof. Anand,Sun,10:45,12:15,Room_2
+W8_Sun_S3,8,PM_B,PM,Prof. Vijaya Dixit,Sun,12:30,14:00,Room_1
+W8_Sun_S3,8,SDM_A,SDM,Prof. Shibashish Chakraborty,Sun,12:30,14:00,Room_2
+W8_Sun_S4,8,IMKT_A,IMKT,Prof. Dipanjan Kumar Dey,Sun,15:30,17:00,Room_1
+W8_Sun_S4,8,SDM_B,SDM,Prof. Shibashish Chakraborty,Sun,15:30,17:00,Room_2
+W8_Thu_S1,8,BV_A,BV,Prof. Anand,Thu,09:00,10:30,Room_1
+W8_Thu_S1,8,IMC_B,IMC,Prof. T. Sai Vijay,Thu,09:00,10:30,Room_2
+W8_Thu_S2,8,CS_B,CS,Prof. Swarup Kumar Dutta,Thu,10:45,12:15,Room_1
+W8_Thu_S2,8,ODC_A,ODC,Prof. Viraj Varma,Thu,10:45,12:15,Room_2
+W8_Thu_S2,8,PBM_A,PBM,Prof. Aditya Shankar Mishra,Thu,10:45,12:15,Room_3
+W8_Thu_S3,8,BMS_A,BMS,Prof. Santosh Kumar Prusty,Thu,12:30,14:00,Room_1
+W8_Thu_S4,8,DMPA_B,DMPA,Prof. Pradip Kumar Bala,Thu,14:45,16:15,Room_1
+W8_Thu_S4,8,FIS_A,FIS,Prof. Prasenjit Chakrabarti,Thu,14:45,16:15,Room_2
+W8_Thu_S4,8,ODC_B,ODC,Prof. Viraj Varma,Thu,14:45,16:15,Room_3
+W8_Thu_S5,8,DRV_B,DRV,Prof. Kamran Kuddus,Thu,16:30,18:00,Room_1
+W8_Thu_S5,8,GMRM_A,GMRM,Prof. Piyali Ghosh,Thu,16:30,18:00,Room_2
+W8_Thu_S5,8,IMKT_A,IMKT,Prof. Dipanjan Kumar Dey,Thu,16:30,18:00,Room_3
+W8_Thu_S6,8,CRM_A,CRM,Prof. Ankur Jha,Thu,18:15,19:45,Room_1
+W8_Thu_S6,8,DT_B,DT,Prof. Arindam Mukherjee,Thu,18:15,19:45,Room_2
+W8_Tue_S1,8,DWDV_A,DWDV,Prof. Anupriya Khan,Tue,09:00,10:30,Room_1
+W8_Tue_S2,8,DWDV_A,DWDV,Prof. Anupriya Khan,Tue,10:45,12:15,Room_1
+W8_Tue_S2,8,REE_A,REE,Prof. Rakhi Singh,Tue,10:45,12:15,Room_2
+W8_Tue_S3,8,CB_A,CB,Prof. M. Jyotsna Soni,Tue,12:30,14:00,Room_1
+W8_Tue_S3,8,CS_B,CS,Prof. Swarup Kumar Dutta,Tue,12:30,14:00,Room_2
+W8_Tue_S4,8,IMKT_A,IMKT,Prof. Dipanjan Kumar Dey,Tue,14:45,16:15,Room_1
+W8_Tue_S4,8,NCM_A,NCM,Prof. Manish Kumar,Tue,14:45,16:15,Room_2
+W8_Tue_S4,8,PBM_B,PBM,Prof. Aditya Shankar Mishra,Tue,14:45,16:15,Room_3
+W8_Tue_S5,8,DRV_A,DRV,Prof. Kamran Kuddus,Tue,16:30,18:00,Room_1
+W8_Tue_S5,8,EMPP_A,EMPP,Prof. Rajasekhar David,Tue,16:30,18:00,Room_2
+W8_Tue_S5,8,ODC_B,ODC,Prof. Viraj Varma,Tue,16:30,18:00,Room_3
+W8_Tue_S5,8,SCM_B,SCM,Prof. Pritee Ray,Tue,16:30,18:00,Room_4
+W8_Tue_S6,8,CCS_A,CCS,Prof. Rohit Kumar,Tue,18:15,19:45,Room_1
+W8_Tue_S6,8,CRM_B,CRM,Prof. Ankur Jha,Tue,18:15,19:45,Room_2
+W8_Wed_S1,8,CB_B,CB,Prof. M. Jyotsna Soni,Wed,09:00,10:30,Room_1
+W8_Wed_S1,8,IMC_A,IMC,Prof. T. Sai Vijay,Wed,09:00,10:30,Room_2
+W8_Wed_S2,8,CCS_B,CCS,Prof. Rohit Kumar,Wed,10:45,12:15,Room_1
+W8_Wed_S2,8,PM_A,PM,Prof. Vijaya Dixit,Wed,10:45,12:15,Room_2
+W8_Wed_S3,8,CS_B,CS,Prof. Swarup Kumar Dutta,Wed,12:30,14:00,Room_1
+W8_Wed_S3,8,DTI_A,DTI,Prof. Rogers,Wed,12:30,14:00,Room_2
+W8_Wed_S4,8,BMS_A,BMS,Prof. Santosh Kumar Prusty,Wed,14:45,16:15,Room_1
+W8_Wed_S5,8,CB_A,CB,Prof. M. Jyotsna Soni,Wed,16:30,18:00,Room_1
+W8_Wed_S5,8,DMPA_B,DMPA,Prof. Pradip Kumar Bala,Wed,16:30,18:00,Room_2
+W8_Wed_S5,8,GMRM_A,GMRM,Prof. Piyali Ghosh,Wed,16:30,18:00,Room_3
+W8_Wed_S6,8,CS_A,CS,Prof. Swarup Kumar Dutta,Wed,18:15,19:45,Room_1
+W8_Wed_S6,8,FIS_B,FIS,Prof. Prasenjit Chakrabarti,Wed,18:15,19:45,Room_2
+W9_Fri_S1,9,DMPA_B,DMPA,Prof. Pradip Kumar Bala,Fri,09:00,10:30,Room_1
+W9_Fri_S1,9,DTI_A,DTI,Prof. Rogers,Fri,09:00,10:30,Room_2
+W9_Fri_S2,9,DTI_B,DTI,Prof. Rogers,Fri,10:45,12:15,Room_1
+W9_Fri_S2,9,PBM_A,PBM,Prof. Aditya Shankar Mishra,Fri,10:45,12:15,Room_2
+W9_Fri_S3,9,DSMM_A,DSMM,Prof. Subhro Sarkar,Fri,12:30,14:00,Room_1
+W9_Fri_S3,9,ODC_B,ODC,Prof. Viraj Varma,Fri,12:30,14:00,Room_2
+W9_Fri_S3,9,SCM_B,SCM,Prof. Pritee Ray,Fri,12:30,14:00,Room_3
+W9_Fri_S4,9,DWDV_A,DWDV,Prof. Anupriya Khan,Fri,14:45,16:15,Room_1
+W9_Fri_S4,9,GMRM_A,GMRM,Prof. Piyali Ghosh,Fri,14:45,16:15,Room_2
+W9_Fri_S5,9,CB_A,CB,Prof. M. Jyotsna Soni,Fri,16:30,18:00,Room_1
+W9_Fri_S5,9,DT_B,DT,Prof. Arindam Mukherjee,Fri,16:30,18:00,Room_2
+W9_Fri_S5,9,GMRM_A,GMRM,Prof. Piyali Ghosh,Fri,16:30,18:00,Room_3
+W9_Fri_S6,9,NCM_A,NCM,Prof. Manish Kumar,Fri,18:15,19:45,Room_1
+W9_Fri_S6,9,PBM_B,PBM,Prof. Aditya Shankar Mishra,Fri,18:15,19:45,Room_2
+W9_Fri_S6,9,SCM_A,SCM,Prof. Pritee Ray,Fri,18:15,19:45,Room_3
+W9_Mon_S1,9,DRV_B,DRV,Prof. Kamran Kuddus,Mon,09:00,10:30,Room_1
+W9_Mon_S1,9,DSMM_A,DSMM,Prof. Subhro Sarkar,Mon,09:00,10:30,Room_2
+W9_Mon_S2,9,DMPA_A,DMPA,Prof. Pradip Kumar Bala,Mon,10:45,12:15,Room_1
+W9_Mon_S2,9,DT_B,DT,Prof. Arindam Mukherjee,Mon,10:45,12:15,Room_2
+W9_Mon_S2,9,GMRM_A,GMRM,Prof. Piyali Ghosh,Mon,10:45,12:15,Room_3
+W9_Mon_S3,9,DSMM_A,DSMM,Prof. Subhro Sarkar,Mon,12:30,14:00,Room_1
+W9_Mon_S3,9,FIS_B,FIS,Prof. Prasenjit Chakrabarti,Mon,12:30,14:00,Room_2
+W9_Mon_S4,9,DSMM_A,DSMM,Prof. Subhro Sarkar,Mon,14:45,16:15,Room_1
+W9_Mon_S4,9,DTI_B,DTI,Prof. Rogers,Mon,14:45,16:15,Room_2
+W9_Mon_S5,9,CB_B,CB,Prof. M. Jyotsna Soni,Mon,16:30,18:00,Room_1
+W9_Mon_S5,9,FIS_A,FIS,Prof. Prasenjit Chakrabarti,Mon,16:30,18:00,Room_2
+W9_Mon_S6,9,CCS_A,CCS,Prof. Rohit Kumar,Mon,18:15,19:45,Room_1
+W9_Mon_S6,9,CS_B,CS,Prof. Swarup Kumar Dutta,Mon,18:15,19:45,Room_2
+W9_Sat_S1,9,IM_A,IM,Prof. Anand,Sat,09:00,10:30,Room_1
+W9_Sat_S1,9,PM_B,PM,Prof. Vijaya Dixit,Sat,09:00,10:30,Room_2
+W9_Sat_S2,9,DWDV_A,DWDV,Prof. Anupriya Khan,Sat,10:45,12:15,Room_1
+W9_Sat_S2,9,EMPP_A,EMPP,Prof. Rajasekhar David,Sat,10:45,12:15,Room_2
+W9_Sat_S3,9,CB_B,CB,Prof. M. Jyotsna Soni,Sat,12:30,14:00,Room_1
+W9_Sat_S3,9,CRM_A,CRM,Prof. Ankur Jha,Sat,12:30,14:00,Room_2
+W9_Sat_S4,9,CB_A,CB,Prof. M. Jyotsna Soni,Sat,14:45,16:15,Room_1
+W9_Sat_S4,9,CCS_B,CCS,Prof. Rohit Kumar,Sat,14:45,16:15,Room_2
+W9_Sat_S5,9,DTI_B,DTI,Prof. Rogers,Sat,16:30,18:00,Room_1
+W9_Sat_S5,9,NCM_A,NCM,Prof. Manish Kumar,Sat,16:30,18:00,Room_2
+W9_Sat_S5,9,SCM_A,SCM,Prof. Pritee Ray,Sat,16:30,18:00,Room_3
+W9_Sat_S6,9,DWDV_A,DWDV,Prof. Anupriya Khan,Sat,18:15,19:45,Room_1
+W9_Sat_S6,9,EMPP_A,EMPP,Prof. Rajasekhar David,Sat,18:15,19:45,Room_2
+W9_Sat_S6,9,ODC_B,ODC,Prof. Viraj Varma,Sat,18:15,19:45,Room_3
+W9_Sun_S1,9,SMTI_A,SMTI,Prof. Shiwangi Singh,Sun,09:00,10:30,Room_1
+W9_Sun_S2,9,DMPA_A,DMPA,Prof. Pradip Kumar Bala,Sun,10:45,12:15,Room_1
+W9_Sun_S2,9,EMPP_A,EMPP,Prof. Rajasekhar David,Sun,10:45,12:15,Room_2
+W9_Sun_S2,9,FIS_B,FIS,Prof. Prasenjit Chakrabarti,Sun,10:45,12:15,Room_3
+W9_Sun_S3,9,DRV_B,DRV,Prof. Kamran Kuddus,Sun,12:30,14:00,Room_1
+W9_Sun_S3,9,IM_A,IM,Prof. Anand,Sun,12:30,14:00,Room_2
+W9_Sun_S4,9,CRM_A,CRM,Prof. Ankur Jha,Sun,15:30,17:00,Room_1
+W9_Sun_S4,9,CS_B,CS,Prof. Swarup Kumar Dutta,Sun,15:30,17:00,Room_2
+W9_Thu_S1,9,DT_B,DT,Prof. Arindam Mukherjee,Thu,09:00,10:30,Room_1
+W9_Thu_S1,9,SDM_A,SDM,Prof. Shibashish Chakraborty,Thu,09:00,10:30,Room_2
+W9_Thu_S2,9,SMTI_A,SMTI,Prof. Shiwangi Singh,Thu,10:45,12:15,Room_1
+W9_Thu_S3,9,DRV_A,DRV,Prof. Kamran Kuddus,Thu,12:30,14:00,Room_1
+W9_Thu_S3,9,EMPP_B,EMPP,Prof. Rajasekhar David,Thu,12:30,14:00,Room_2
+W9_Thu_S3,9,IM_B,IM,Prof. Anand,Thu,12:30,14:00,Room_3
+W9_Thu_S4,9,DMPA_A,DMPA,Prof. Pradip Kumar Bala,Thu,14:45,16:15,Room_1
+W9_Thu_S4,9,ODC_A,ODC,Prof. Viraj Varma,Thu,14:45,16:15,Room_2
+W9_Thu_S4,9,SCM_B,SCM,Prof. Pritee Ray,Thu,14:45,16:15,Room_3
+W9_Thu_S5,9,IM_A,IM,Prof. Anand,Thu,16:30,18:00,Room_1
+W9_Thu_S5,9,ODC_B,ODC,Prof. Viraj Varma,Thu,16:30,18:00,Room_2
+W9_Thu_S5,9,SCM_B,SCM,Prof. Pritee Ray,Thu,16:30,18:00,Room_3
+W9_Thu_S6,9,CB_B,CB,Prof. M. Jyotsna Soni,Thu,18:15,19:45,Room_1
+W9_Thu_S6,9,PRI_A,PRI,Prof. Shweta Jha,Thu,18:15,19:45,Room_2
+W9_Tue_S1,9,CS_B,CS,Prof. Swarup Kumar Dutta,Tue,09:00,10:30,Room_1
+W9_Tue_S1,9,PM_A,PM,Prof. Vijaya Dixit,Tue,09:00,10:30,Room_2
+W9_Tue_S2,9,DMPA_A,DMPA,Prof. Pradip Kumar Bala,Tue,10:45,12:15,Room_1
+W9_Tue_S2,9,DT_B,DT,Prof. Arindam Mukherjee,Tue,10:45,12:15,Room_2
+W9_Tue_S2,9,EMPP_A,EMPP,Prof. Rajasekhar David,Tue,10:45,12:15,Room_3
+W9_Tue_S3,9,CB_B,CB,Prof. M. Jyotsna Soni,Tue,12:30,14:00,Room_1
+W9_Tue_S3,9,DTI_A,DTI,Prof. Rogers,Tue,12:30,14:00,Room_2
+W9_Tue_S4,9,CS_B,CS,Prof. Swarup Kumar Dutta,Tue,14:45,16:15,Room_1
+W9_Tue_S4,9,SDM_A,SDM,Prof. Shibashish Chakraborty,Tue,14:45,16:15,Room_2
+W9_Tue_S5,9,CCS_B,CCS,Prof. Rohit Kumar,Tue,16:30,18:00,Room_1
+W9_Tue_S5,9,DMPA_A,DMPA,Prof. Pradip Kumar Bala,Tue,16:30,18:00,Room_2
+W9_Tue_S5,9,EMPP_A,EMPP,Prof. Rajasekhar David,Tue,16:30,18:00,Room_3
+W9_Tue_S6,9,CCS_A,CCS,Prof. Rohit Kumar,Tue,18:15,19:45,Room_1
+W9_Tue_S6,9,SDM_B,SDM,Prof. Shibashish Chakraborty,Tue,18:15,19:45,Room_2
+W9_Wed_S1,9,DTI_A,DTI,Prof. Rogers,Wed,09:00,10:30,Room_1
+W9_Wed_S1,9,EMPP_B,EMPP,Prof. Rajasekhar David,Wed,09:00,10:30,Room_2
+W9_Wed_S1,9,IM_B,IM,Prof. Anand,Wed,09:00,10:30,Room_3
+W9_Wed_S2,9,IMKT_A,IMKT,Prof. Dipanjan Kumar Dey,Wed,10:45,12:15,Room_1
+W9_Wed_S2,9,NCM_A,NCM,Prof. Manish Kumar,Wed,10:45,12:15,Room_2
+W9_Wed_S2,9,SCM_B,SCM,Prof. Pritee Ray,Wed,10:45,12:15,Room_3
+W9_Wed_S3,9,DRV_B,DRV,Prof. Kamran Kuddus,Wed,12:30,14:00,Room_1
+W9_Wed_S3,9,GMRM_A,GMRM,Prof. Piyali Ghosh,Wed,12:30,14:00,Room_2
+W9_Wed_S3,9,IMKT_A,IMKT,Prof. Dipanjan Kumar Dey,Wed,12:30,14:00,Room_3
+W9_Wed_S4,9,CCS_B,CCS,Prof. Rohit Kumar,Wed,14:45,16:15,Room_1
+W9_Wed_S4,9,EMPP_A,EMPP,Prof. Rajasekhar David,Wed,14:45,16:15,Room_2
+W9_Wed_S4,9,SCM_A,SCM,Prof. Pritee Ray,Wed,14:45,16:15,Room_3
+W9_Wed_S5,9,CS_A,CS,Prof. Swarup Kumar Dutta,Wed,16:30,18:00,Room_1
+W9_Wed_S5,9,DT_B,DT,Prof. Arindam Mukherjee,Wed,16:30,18:00,Room_2
+W9_Wed_S6,9,IM_A,IM,Prof. Anand,Wed,18:15,19:45,Room_1
+W9_Wed_S6,9,SCM_B,SCM,Prof. Pritee Ray,Wed,18:15,19:45,Room_2
+W10_Fri_S1,10,DRV_A,DRV,Prof. Kamran Kuddus,Fri,09:00,10:30,Room_1
+W10_Fri_S1,10,EMPP_B,EMPP,Prof. Rajasekhar David,Fri,09:00,10:30,Room_2
+W10_Fri_S1,10,IM_B,IM,Prof. Anand,Fri,09:00,10:30,Room_3
+W10_Fri_S2,10,CRM_B,CRM,Prof. Ankur Jha,Fri,10:45,12:15,Room_1
+W10_Fri_S2,10,PM_A,PM,Prof. Vijaya Dixit,Fri,10:45,12:15,Room_2
+W10_Fri_S3,10,BMS_A,BMS,Prof. Santosh Kumar Prusty,Fri,12:30,14:00,Room_1
+W10_Fri_S4,10,DMPA_A,DMPA,Prof. Pradip Kumar Bala,Fri,14:45,16:15,Room_1
+W10_Fri_S4,10,EMPP_A,EMPP,Prof. Rajasekhar David,Fri,14:45,16:15,Room_2
+W10_Fri_S4,10,PBM_B,PBM,Prof. Aditya Shankar Mishra,Fri,14:45,16:15,Room_3
+W10_Fri_S5,10,DT_B,DT,Prof. Arindam Mukherjee,Fri,16:30,18:00,Room_1
+W10_Fri_S5,10,IMKT_A,IMKT,Prof. Dipanjan Kumar Dey,Fri,16:30,18:00,Room_2
+W10_Fri_S6,10,CB_A,CB,Prof. M. Jyotsna Soni,Fri,18:15,19:45,Room_1
+W10_Fri_S6,10,DT_B,DT,Prof. Arindam Mukherjee,Fri,18:15,19:45,Room_2
+W10_Fri_S6,10,GMRM_A,GMRM,Prof. Piyali Ghosh,Fri,18:15,19:45,Room_3
+W10_Mon_S1,10,DT_A,DT,Prof. Arindam Mukherjee,Mon,09:00,10:30,Room_1
+W10_Mon_S1,10,ODC_A,ODC,Prof. Viraj Varma,Mon,09:00,10:30,Room_2
+W10_Mon_S1,10,PBM_B,PBM,Prof. Aditya Shankar Mishra,Mon,09:00,10:30,Room_3
+W10_Mon_S2,10,DTI_A,DTI,Prof. Rogers,Mon,10:45,12:15,Room_1
+W10_Mon_S2,10,IMKT_B,IMKT,Prof. Dipanjan Kumar Dey,Mon,10:45,12:15,Room_2
+W10_Mon_S3,10,CS_A,CS,Prof. Swarup Kumar Dutta,Mon,12:30,14:00,Room_1
+W10_Mon_S3,10,IMKT_B,IMKT,Prof. Dipanjan Kumar Dey,Mon,12:30,14:00,Room_2
+W10_Mon_S4,10,CRM_B,CRM,Prof. Ankur Jha,Mon,14:45,16:15,Room_1
+W10_Mon_S4,10,NCM_A,NCM,Prof. Manish Kumar,Mon,14:45,16:15,Room_2
+W10_Mon_S4,10,SCM_A,SCM,Prof. Pritee Ray,Mon,14:45,16:15,Room_3
+W10_Mon_S5,10,PRI_A,PRI,Prof. Shweta Jha,Mon,16:30,18:00,Room_1
+W10_Mon_S5,10,REE_A,REE,Prof. Rakhi Singh,Mon,16:30,18:00,Room_2
+W10_Mon_S5,10,SDM_B,SDM,Prof. Shibashish Chakraborty,Mon,16:30,18:00,Room_3
+W10_Mon_S6,10,CCS_A,CCS,Prof. Rohit Kumar,Mon,18:15,19:45,Room_1
+W10_Mon_S6,10,DSMM_B,DSMM,Prof. Subhro Sarkar,Mon,18:15,19:45,Room_2
+W10_Sat_S1,10,NCM_A,NCM,Prof. Manish Kumar,Sat,09:00,10:30,Room_1
+W10_Sat_S1,10,PRI_B,PRI,Prof. Shweta Jha,Sat,09:00,10:30,Room_2
+W10_Sat_S1,10,SCM_A,SCM,Prof. Pritee Ray,Sat,09:00,10:30,Room_3
+W10_Sat_S2,10,DRV_B,DRV,Prof. Kamran Kuddus,Sat,10:45,12:15,Room_1
+W10_Sat_S2,10,NCM_A,NCM,Prof. Manish Kumar,Sat,10:45,12:15,Room_2
+W10_Sat_S2,10,SCM_A,SCM,Prof. Pritee Ray,Sat,10:45,12:15,Room_3
+W10_Sat_S3,10,DSMM_A,DSMM,Prof. Subhro Sarkar,Sat,12:30,14:00,Room_1
+W10_Sat_S3,10,DTI_B,DTI,Prof. Rogers,Sat,12:30,14:00,Room_2
+W10_Sat_S4,10,DSMM_A,DSMM,Prof. Subhro Sarkar,Sat,14:45,16:15,Room_1
+W10_Sat_S4,10,FIS_B,FIS,Prof. Prasenjit Chakrabarti,Sat,14:45,16:15,Room_2
+W10_Sat_S5,10,CS_A,CS,Prof. Swarup Kumar Dutta,Sat,16:30,18:00,Room_1
+W10_Sat_S5,10,PM_B,PM,Prof. Vijaya Dixit,Sat,16:30,18:00,Room_2
+W10_Sat_S6,10,CCS_B,CCS,Prof. Rohit Kumar,Sat,18:15,19:45,Room_1
+W10_Sat_S6,10,SDM_A,SDM,Prof. Shibashish Chakraborty,Sat,18:15,19:45,Room_2
+W10_Sun_S1,10,CB_B,CB,Prof. M. Jyotsna Soni,Sun,09:00,10:30,Room_1
+W10_Sun_S1,10,SDM_A,SDM,Prof. Shibashish Chakraborty,Sun,09:00,10:30,Room_2
+W10_Sun_S2,10,SMTI_A,SMTI,Prof. Shiwangi Singh,Sun,10:45,12:15,Room_1
+W10_Sun_S3,10,CRM_B,CRM,Prof. Ankur Jha,Sun,12:30,14:00,Room_1
+W10_Sun_S3,10,IM_A,IM,Prof. Anand,Sun,12:30,14:00,Room_2
+W10_Sun_S4,10,CCS_B,CCS,Prof. Rohit Kumar,Sun,15:30,17:00,Room_1
+W10_Sun_S4,10,CRM_A,CRM,Prof. Ankur Jha,Sun,15:30,17:00,Room_2
+W10_Thu_S1,10,DTI_A,DTI,Prof. Rogers,Thu,09:00,10:30,Room_1
+W10_Thu_S1,10,SDM_B,SDM,Prof. Shibashish Chakraborty,Thu,09:00,10:30,Room_2
+W10_Thu_S2,10,DTI_A,DTI,Prof. Rogers,Thu,10:45,12:15,Room_1
+W10_Thu_S2,10,PBM_B,PBM,Prof. Aditya Shankar Mishra,Thu,10:45,12:15,Room_2
+W10_Thu_S3,10,FIS_B,FIS,Prof. Prasenjit Chakrabarti,Thu,12:30,14:00,Room_1
+W10_Thu_S3,10,PRI_A,PRI,Prof. Shweta Jha,Thu,12:30,14:00,Room_2
+W10_Thu_S3,10,REE_A,REE,Prof. Rakhi Singh,Thu,12:30,14:00,Room_3
+W10_Thu_S4,10,DMPA_A,DMPA,Prof. Pradip Kumar Bala,Thu,14:45,16:15,Room_1
+W10_Thu_S4,10,EMPP_B,EMPP,Prof. Rajasekhar David,Thu,14:45,16:15,Room_2
+W10_Thu_S4,10,IM_B,IM,Prof. Anand,Thu,14:45,16:15,Room_3
+W10_Thu_S5,10,DSMM_A,DSMM,Prof. Subhro Sarkar,Thu,16:30,18:00,Room_1
+W10_Thu_S5,10,SCM_B,SCM,Prof. Pritee Ray,Thu,16:30,18:00,Room_2
+W10_Thu_S6,10,CB_A,CB,Prof. M. Jyotsna Soni,Thu,18:15,19:45,Room_1
+W10_Thu_S6,10,DRV_B,DRV,Prof. Kamran Kuddus,Thu,18:15,19:45,Room_2
+W10_Thu_S6,10,GMRM_A,GMRM,Prof. Piyali Ghosh,Thu,18:15,19:45,Room_3
+W10_Tue_S1,10,CRM_B,CRM,Prof. Ankur Jha,Tue,09:00,10:30,Room_1
+W10_Tue_S1,10,ODC_A,ODC,Prof. Viraj Varma,Tue,09:00,10:30,Room_2
+W10_Tue_S1,10,PBM_A,PBM,Prof. Aditya Shankar Mishra,Tue,09:00,10:30,Room_3
+W10_Tue_S2,10,CS_B,CS,Prof. Swarup Kumar Dutta,Tue,10:45,12:15,Room_1
+W10_Tue_S2,10,DTI_A,DTI,Prof. Rogers,Tue,10:45,12:15,Room_2
+W10_Tue_S3,10,CB_B,CB,Prof. M. Jyotsna Soni,Tue,12:30,14:00,Room_1
+W10_Tue_S3,10,CS_A,CS,Prof. Swarup Kumar Dutta,Tue,12:30,14:00,Room_2
+W10_Tue_S4,10,CRM_A,CRM,Prof. Ankur Jha,Tue,14:45,16:15,Room_1
+W10_Tue_S4,10,PM_B,PM,Prof. Vijaya Dixit,Tue,14:45,16:15,Room_2
+W10_Tue_S5,10,SMTI_A,SMTI,Prof. Shiwangi Singh,Tue,16:30,18:00,Room_1
+W10_Tue_S6,10,BMS_A,BMS,Prof. Santosh Kumar Prusty,Tue,18:15,19:45,Room_1
+W10_Wed_S1,10,SMTI_A,SMTI,Prof. Shiwangi Singh,Wed,09:00,10:30,Room_1
+W10_Wed_S2,10,BV_A,BV,Prof. Anand,Wed,10:45,12:15,Room_1
+W10_Wed_S2,10,IMC_B,IMC,Prof. T. Sai Vijay,Wed,10:45,12:15,Room_2
+W10_Wed_S3,10,DWDV_A,DWDV,Prof. Anupriya Khan,Wed,12:30,14:00,Room_1
+W10_Wed_S3,10,ODC_A,ODC,Prof. Viraj Varma,Wed,12:30,14:00,Room_2
+W10_Wed_S4,10,CCS_B,CCS,Prof. Rohit Kumar,Wed,14:45,16:15,Room_1
+W10_Wed_S4,10,CRM_A,CRM,Prof. Ankur Jha,Wed,14:45,16:15,Room_2
+W10_Wed_S5,10,FIS_B,FIS,Prof. Prasenjit Chakrabarti,Wed,16:30,18:00,Room_1
+W10_Wed_S5,10,IMKT_A,IMKT,Prof. Dipanjan Kumar Dey,Wed,16:30,18:00,Room_2
+W10_Wed_S6,10,CCS_B,CCS,Prof. Rohit Kumar,Wed,18:15,19:45,Room_1
+W10_Wed_S6,10,CS_A,CS,Prof. Swarup Kumar Dutta,Wed,18:15,19:45,Room_2

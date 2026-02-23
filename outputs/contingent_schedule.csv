@@ -1,0 +1,55 @@
+section_id,course_id,faculty,c_slot_id,c_day,start,end,room_cap
+DSMM_B,DSMM,Prof. Subhro Sarkar,C1_S1,C1,09:00,10:30,10
+IM_A,IM,Prof. Anand,C1_S1,C1,09:00,10:30,10
+CRM_A,CRM,Prof. Ankur Jha,C1_S2,C1,10:45,12:15,10
+PBM_B,PBM,Prof. Aditya Shankar Mishra,C1_S2,C1,10:45,12:15,10
+CB_B,CB,Prof. M. Jyotsna Soni,C1_S3,C1,12:30,14:00,10
+IM_A,IM,Prof. Anand,C1_S3,C1,12:30,14:00,10
+CRM_A,CRM,Prof. Ankur Jha,C1_S4,C1,14:45,16:15,10
+CCS_A,CCS,Prof. Rohit Kumar,C1_S5,C1,16:30,18:00,10
+BV_A,BV,Prof. Anand,C1_S6,C1,18:15,19:45,10
+CB_B,CB,Prof. M. Jyotsna Soni,C1_S7,C1,20:00,21:30,10
+CCS_A,CCS,Prof. Rohit Kumar,C2_S8,C2,09:00,10:30,10
+DWDV_A,DWDV,Prof. Anupriya Khan,C2_S9,C2,10:45,12:15,10
+DWDV_A,DWDV,Prof. Anupriya Khan,C2_S10,C2,12:30,14:00,10
+CB_A,CB,Prof. M. Jyotsna Soni,C2_S11,C2,14:45,16:15,10
+FIS_B,FIS,Prof. Prasenjit Chakrabarti,C2_S11,C2,14:45,16:15,10
+FIS_B,FIS,Prof. Prasenjit Chakrabarti,C2_S12,C2,16:30,18:00,10
+SMTI_A,SMTI,Prof. Shiwangi Singh,C2_S13,C2,18:15,19:45,10
+SMTI_A,SMTI,Prof. Shiwangi Singh,C2_S14,C2,20:00,21:30,10
+BMS_A,BMS,Prof. Santosh Kumar Prusty,C3_S15,C3,09:00,10:30,10
+BMS_A,BMS,Prof. Santosh Kumar Prusty,C3_S16,C3,10:45,12:15,10
+BV_A,BV,Prof. Anand,C3_S17,C3,12:30,14:00,10
+CB_A,CB,Prof. M. Jyotsna Soni,C3_S18,C3,14:45,16:15,10
+CS_A,CS,Prof. Swarup Kumar Dutta,C3_S19,C3,16:30,18:00,10
+CS_A,CS,Prof. Swarup Kumar Dutta,C3_S20,C3,18:15,19:45,10
+DMPA_A,DMPA,Prof. Pradip Kumar Bala,C3_S21,C3,20:00,21:30,10
+DMPA_A,DMPA,Prof. Pradip Kumar Bala,C4_S22,C4,09:00,10:30,10
+DRV_A,DRV,Prof. Kamran Kuddus,C4_S23,C4,10:45,12:15,10
+DRV_A,DRV,Prof. Kamran Kuddus,C4_S24,C4,12:30,14:00,10
+DSMM_A,DSMM,Prof. Subhro Sarkar,C4_S25,C4,14:45,16:15,10
+DSMM_A,DSMM,Prof. Subhro Sarkar,C4_S26,C4,16:30,18:00,10
+DT_A,DT,Prof. Arindam Mukherjee,C4_S27,C4,18:15,19:45,10
+DT_A,DT,Prof. Arindam Mukherjee,C4_S28,C4,20:00,21:30,10
+DTI_A,DTI,Prof. Rohit Kumar (Premid) + Prof. Rojers Puthur Josrph (Postmid),C5_S29,C5,09:00,10:30,10
+DTI_A,DTI,Prof. Rohit Kumar (Premid) + Prof. Rojers Puthur Josrph (Postmid),C5_S30,C5,10:45,12:15,10
+FIS_A,FIS,Prof. Prasenjit Chakrabarti,C5_S31,C5,12:30,14:00,10
+FIS_A,FIS,Prof. Prasenjit Chakrabarti,C5_S32,C5,14:45,16:15,10
+IMC_A,IMC,Prof. T. Sai Vijay,C5_S33,C5,16:30,18:00,10
+IMC_A,IMC,Prof. T. Sai Vijay,C5_S34,C5,18:15,19:45,10
+CCS_B,CCS,Prof. Rohit Kumar,C5_S35,C5,20:00,21:30,10
+IMKT_A,IMKT,Prof. Dipanjan Kumar Dey,C5_S35,C5,20:00,21:30,10
+CCS_B,CCS,Prof. Rohit Kumar,C6_S36,C6,09:00,10:30,10
+IMKT_A,IMKT,Prof. Dipanjan Kumar Dey,C6_S36,C6,09:00,10:30,10
+CS_B,CS,Prof. Swarup Kumar Dutta,C6_S37,C6,10:45,12:15,10
+PBM_A,PBM,Prof. Aditya Shankar Mishra,C6_S37,C6,10:45,12:15,10
+CS_B,CS,Prof. Swarup Kumar Dutta,C6_S38,C6,12:30,14:00,10
+PBM_A,PBM,Prof. Aditya Shankar Mishra,C6_S38,C6,12:30,14:00,10
+DTI_B,DTI,Prof. Rohit Kumar (Premid) + Prof. Rojers Puthur Josrph (Postmid),C6_S39,C6,14:45,16:15,10
+PRI_A,PRI,Prof. Shweta Jha,C6_S39,C6,14:45,16:15,10
+DTI_B,DTI,Prof. Rohit Kumar (Premid) + Prof. Rojers Puthur Josrph (Postmid),C6_S40,C6,16:30,18:00,10
+PRI_A,PRI,Prof. Shweta Jha,C6_S40,C6,16:30,18:00,10
+IMKT_B,IMKT,Prof. Dipanjan Kumar Dey,C6_S41,C6,18:15,19:45,10
+SDM_A,SDM,Prof. Shibashish Chakraborty,C6_S41,C6,18:15,19:45,10
+IMKT_B,IMKT,Prof. Dipanjan Kumar Dey,C6_S42,C6,20:00,21:30,10
+SDM_A,SDM,Prof. Shibashish Chakraborty,C6_S42,C6,20:00,21:30,10
